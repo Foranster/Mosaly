@@ -1,0 +1,984 @@
+<!DOCTYPE html>
+<html lang="fr-FR" >
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://complexehotelmosaly.com/xmlrpc.php">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <title>Caisse &#8211; HOTEL MOSALY</title>
+<meta name='robots' content='max-image-preview:large, noindex, follow' />
+<link rel='dns-prefetch' href='https://www.googletagmanager.com/' />
+<link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='https://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="HOTEL MOSALY &raquo; Flux" href="../feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="HOTEL MOSALY &raquo; Flux des commentaires" href="../comments/feed/index.html" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/complexehotelmosaly.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.3"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='gtranslate-style-css'  href='../wp-content/plugins/gtranslate/gtranslate-style24.css?ver=5.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min.css?ver=5.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='../wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=5.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='../wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=5.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='../wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='datepicker-css'  href='../wp-content/plugins/ova-hotel/assets/plugins/jquery-ui/jquery-ui.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='../wp-content/plugins/ova-hotel/assets/plugins/select2/select2.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ova-hotel-css'  href='../wp-content/plugins/ova-hotel/assets/ova-hotel.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpmenucart-icons-css'  href='../wp-content/plugins/woocommerce-menu-bar-cart/css/wpmenucart-icons.css?ver=2.9.8' type='text/css' media='all' />
+<style id='wpmenucart-icons-inline-css' type='text/css'>
+@font-face {
+    font-family:'WPMenuCart';
+    src: url('../wp-content/plugins/woocommerce-menu-bar-cart/font/WPMenuCart.eot');
+    src: url('../wp-content/plugins/woocommerce-menu-bar-cart/font/WPMenuCart.eot?') format('embedded-opentype'),
+         url('../wp-content/plugins/woocommerce-menu-bar-cart/font/WPMenuCart.woff2') format('woff2'),
+         url('../wp-content/plugins/woocommerce-menu-bar-cart/font/WPMenuCart.woff') format('woff'),
+         url('../wp-content/plugins/woocommerce-menu-bar-cart/font/WPMenuCart.ttf') format('truetype'),
+         url('../wp-content/plugins/woocommerce-menu-bar-cart/font/WPMenuCart.svg') format('svg');
+    font-weight:normal;
+	font-style:normal;
+	font-display:swap;
+}
+</style>
+<link rel='stylesheet' id='wpmenucart-css'  href='../wp-content/plugins/woocommerce-menu-bar-cart/css/wpmenucart-main.css?ver=2.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='../wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='../wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.4.2' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='../wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.4.2' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='bootstrap-css'  href='../wp-content/themes/hozing/assets/libs/bootstrap/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='v4-shims-css'  href='../wp-content/themes/hozing/assets/libs/fontawesome/css/v4-shims.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='../wp-content/themes/hozing/assets/libs/fontawesome/css/all.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elegant_font-css'  href='../wp-content/themes/hozing/assets/libs/elegant_font/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyphoto-css'  href='../wp-content/themes/hozing/assets/libs/prettyphoto/css/prettyPhoto.css' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='../wp-content/themes/hozing/assets/libs/owl-carousel/assets/owl.carousel.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-theme-default-css'  href='../wp-content/themes/hozing/assets/libs/owl-carousel/assets/owl.theme.default.css' type='text/css' media='all' />
+<link rel='stylesheet' id='hozing_theme-css'  href='../wp-content/themes/hozing/assets/css/theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='hozing_style-css'  href='../wp-content/themes/hozing/style.css' type='text/css' media='all' />
+<style id='hozing_style-inline-css' type='text/css'>
+
+body{
+	font-family: Roboto Condensed;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 23px;
+	letter-spacing: 0px;
+	color: #343434;
+}
+.editor-styles-wrapper{
+	font-family: Roboto Condensed!important;
+}
+p{
+	line-height: 23pxpx;
+	color: #343434;
+}
+
+article.post-wrap.hoz-single-post .post-body p{
+	font-family: Roboto Condensed;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 23px;
+	letter-spacing: 0px;
+	color: #343434;	
+}
+
+/*---------------------------------------
+			Archive && Search Room Woo 
+----------------------------------------*/
+.ovahotel_search .wrap-check-form .hotel_field label,
+.ovahotel_search .wrap-check-form .hotel_field .hotel_field_date .show_date .day_digit,
+.ovahotel_search .wrap-check-form .hotel_field .hotel_field_date .show_date .month_year,
+.ovahotel_search .wrap-check-form .hotel_field.btn_search .btn_tran,
+.archive_rental .rental_item .border-box .wrap_img .price_night .wrap_content,
+.archive_rental .rental_item .border-box .content ul.specical-infor li span,
+.archive_rental .rental_item .border-box .content p,
+.archive_rental .rental_item .border-box .content .discorver .discover-now,
+.archive_rental .woocommerce-pagination ul.page-numbers li span.current,
+.archive_rental .rental_item.colums_no_sidebar_2v2 .border-box .wrap_img .discorver a,
+.archive_rental .sidebar.woo-sidebar .widget_price_filter .price_slider_wrapper .price_slider_amount .price_label,
+ul.commentlists li.pingback .author-name a
+{
+	font-family: Roboto Condensed;
+}
+.ovahotel_search .wrap-check-form .hotel_field .hotel_field_date .show_date .month_year .day_name,
+.archive_rental .rental_item .border-box .wrap_img .price_night .wrap_content .amount,
+.archive_rental .woocommerce-pagination ul.page-numbers li span.current,
+.archive_rental .woocommerce-pagination ul.page-numbers li a.page-numbers:hover,
+.archive_rental .rental_item.colums_no_sidebar_3v2 .border-box:hover .content .discorver .discover-now, .archive_rental .rental_item.columns_sidebar_v1 .border-box:hover .content .discorver .discover-now,
+.archive_rental .rental_item.colums_no_sidebar_2v1 .border-box .content .discorver .discover-now:hover,
+.ovahotel_search.checking_side .wrap-check-form .hotel_field .room_infor .people,
+.archive_rental .room-grid-3-columns-v1 .woocommerce-pagination ul.page-numbers li span.current, .archive_rental .room-grid-2-columns-with-sidebar .woocommerce-pagination ul.page-numbers li span.current,
+.archive_rental .rental_item.colums_no_sidebar_3v2 .border-box .wrap_img .price_night .wrap_content .amount, .archive_rental .rental_item.columns_sidebar_v1 .border-box .wrap_img .price_night .wrap_content .amount,
+.archive_rental .room-list .woocommerce-pagination ul.page-numbers li span.current, .archive_rental .room-list-with-sidebar .woocommerce-pagination ul.page-numbers li span.current, .archive_rental .room-grid-3-columns-v2 .woocommerce-pagination ul.page-numbers li span.current,
+.archive_rental .rental_item .border-box .content h3.title a:hover,
+.archive_rental .rental_item.room_life_style .border-box .content .general_font a:hover,
+.main-room-details .sticky-nav-tabs ul.sticky-nav-tabs-container li.active:before,
+.woocommerce p.stars a
+
+{
+	color: #b9a271;
+}
+.ovahotel_search .wrap-check-form .hotel_field.btn_search .btn_tran,
+.archive_rental .rental_item.colums_no_sidebar_2v2 .border-box .wrap_img .price_night .wrap_content,
+.archive_rental .rental_item.product_room_list .border-box:hover .content .discorver .discover-now, .archive_rental .rental_item.room_list_with_sidebar .border-box:hover .content .discorver .discover-now,
+.archive_rental .rental_item.colums_no_sidebar_2v2 .border-box .wrap_img .discorver a:hover,
+form.search-form input.search-submit
+{
+	background-color: #b9a271; 
+}
+
+.archive_rental .rental_item .border-box .content h3.title,
+.archive_rental .sidebar.woo-sidebar .widget h4.widget-title,
+.archive_rental .sidebar.woo-sidebar .widget_text h4.widget-title
+
+{
+	font-family: Quicksand;
+}
+
+/*---------Boder---------*/
+.archive_rental .rental_item.product_room_list .border-box .content .discorver .discover-now, .archive_rental .rental_item.room_list_with_sidebar .border-box .content .discorver .discover-now,
+.archive_rental .room-grid-2-columns-v2 .woocommerce-pagination ul.page-numbers li span.current,
+
+.archive_rental .rental_item.colums_no_sidebar_3v2 .border-box:hover .content, .archive_rental .rental_item.columns_sidebar_v1 .border-box:hover .content,
+.archive_rental .room-grid-3-columns-v1 .woocommerce-pagination ul.page-numbers li span.current, .archive_rental .room-grid-2-columns-with-sidebar .woocommerce-pagination ul.page-numbers li span.current,
+.select2-container--default .select2-selection--single,
+form.search-form .search-field,
+form.search-form input.search-submit
+
+{
+	border-color: #b9a271 !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow b{
+	border-color: #b9a271 transparent transparent transparent;	
+}
+
+@media(max-width: 575px){
+	.main-room-details .hotel_details .right-infor-detail .info-room-detail .buttons .hozing_btn_img{
+		background: #b9a271;
+	}
+}
+
+/*==================== Detail Room Woo ====================*/
+
+.main-room-details .hotel_details .left-infor-detail .desc p,
+.main-room-details .hotel_details .left-infor-detail .service ul.wrap_resources li span,
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .price .time-night-details,
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .price .amount,
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .buttons .hozing_btn_img,
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .buttons .hozing_btn_video,
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .amenities .features .feature-item span.label,
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .amenities .services .feature-item span.label,
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .calendar .hotel_product_calendar .fc-view-container .fc-view table .fc-body .fc-scroller .fc-day-grid .fc-row .fc-content-skeleton .fc-day-top .fc-day-number,
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .calendar .intruction li span,
+.main-room-details .other-room .room-other .product_list_widget .item-room .wrap_img .price_night .wrap_content,
+.main-room-details .other-room .room-other .product_list_widget .item-room .content ul.specical-infor li span
+{
+	font-family: Roboto Condensed;
+}
+
+.main-room-details .sticky-nav-tabs ul.sticky-nav-tabs-container li a.sticky-nav-tab,
+
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .calendar .title-calendar h3,
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .calendar .hotel_product_calendar .fc-toolbar .fc-center h2,
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .calendar .hotel_product_calendar .fc-view-container .fc-view table .fc-head .fc-head-container .fc-row table .fc-day-header span,
+.main-room-details #booking .title-booking h3,
+.main-room-details .other-room .room-other .product_list_widget .item-room .content h3.title,
+.related.products h2,
+.woocommerce.single-product .product .woocommerce-tabs ul.tabs li a
+{
+	font-family: Quicksand;
+}
+
+.main-room-details .hotel_details .left-infor-detail .desc h3.second_font span,
+.main-room-details .hotel_details .left-infor-detail .service h3.second_font span,
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .buttons .hozing_btn_img,
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .calendar .title-calendar h3 span,
+.main-room-details .other-room .title-other h3 span,
+.main-room-details .other-room .room-other .product_list_widget .owl-dots button,
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .calendar .hotel_product_calendar .fc-toolbar .fc-left .fc-button-group .fc-prev-button:hover, .main-room-details .hotel_details .right-infor-detail .info-room-detail .calendar .hotel_product_calendar .fc-toolbar .fc-left .fc-button-group .fc-next-button:hover
+{
+	border-color: #b9a271 !important;
+}
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .price .amount,
+.main-room-details .other-room .room-other .product_list_widget .item-room .wrap_img .price_night .wrap_content .amount,
+.main-room-details .hotel_details .left-infor-detail .service ul.wrap_resources li:before,
+.main-room-details .other-room .title-other h2:hover,
+.main-room-details .other-room .room-other .product_list_widget .item-room .content h3.title a:hover,
+.ovahotel_search .wrap-check-form .hotel_field label.error
+{
+	color: #b9a271 !important;
+}
+
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .buttons .hozing_btn_img:hover,
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .buttons .hozing_btn_video:hover,
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .calendar .hotel_product_calendar .fc-toolbar .fc-left .fc-button-group .fc-prev-button:hover, .main-room-details .hotel_details .right-infor-detail .info-room-detail .calendar .hotel_product_calendar .fc-toolbar .fc-left .fc-button-group .fc-next-button:hover,
+.main-room-details .hotel_details .right-infor-detail .info-room-detail .calendar .intruction li span.yellow,
+.main-room-details .other-room .room-other .product_list_widget .owl-dots button.active,
+.main-room-details #gallery .list-image .owl-nav .owl-prev, .main-room-details #gallery .list-image .owl-nav .owl-next,
+.main-room-details #gallery .list-image .owl-dots .owl-dot span
+{
+	background: #b9a271;
+}
+
+.general_font{
+	font-family: Roboto Condensed;
+}
+h1,h2,h3,h4,h5,h6,
+.cart-collaterals h2,
+#review_form  #reply-title,
+.second_font{
+	font-family: Quicksand;
+}
+
+/* =================== Cart && Checkout Page */
+
+.woocommerce-cart .woocommerce .cart-collaterals .cart_totals .shop_table,
+.woocommerce-cart .woocommerce .woocommerce-cart-form .shop_table tbody .actions .coupon .button,
+.woocommerce-checkout .checkout_coupon .button,
+.checkout .woocommerce-checkout-payment .place-order .button,
+.woocommerce-order .woocommerce-order-details h2:before
+{
+	background: #b9a271;
+}
+.woocommerce-checkout .woocommerce-form-coupon-toggle .woocommerce-info a,
+.woocommerce-checkout .woocommerce-form-coupon-toggle .woocommerce-info:before,
+.checkout .hotel_billing .woocommerce-billing-fields p.form-row label .required,
+.woocommerce-privacy-policy-text a.woocommerce-privacy-policy-link,
+.validate-required a.woocommerce-terms-and-conditions-link,
+.checkout .woocommerce-checkout-payment .place-order .woocommerce-terms-and-conditions-wrapper .validate-required .required{
+	color: #b9a271 !important;
+}
+
+.woocommerce-checkout .woocommerce-form-coupon-toggle .woocommerce-info,
+.woocommerce-checkout .checkout_coupon .button
+{
+	border-color: #b9a271 !important;
+}
+form.checkout.woocommerce-checkout h3:after{
+	background: #b9a271 !important;
+}
+
+/* =============== My Account*/
+
+.woocommerce .lost_reset_password .form-row button,
+.woocommerce .woocommerce-form-login .form-row button,
+.woocommerce .woocommerce-MyAccount-content .edit-account button,
+.woocommerce .edit-account .form-row button, 
+.woocommerce .login .form-row button, 
+.woocommerce .register .form-row button,
+.woocommerce .woocommerce-MyAccount-content .woocommerce-address-fields button{
+	background: #b9a271 !important; 
+}
+.woocommerce .lost_reset_password .form-row button,
+.woocommerce .woocommerce-form-login .form-row button,
+.woocommerce .woocommerce-MyAccount-content .edit-account button,
+.woocommerce .woocommerce-MyAccount-content .woocommerce-address-fields button{
+	border-color: #b9a271 !important;
+}
+.woocommerce .woocommerce-form-login p.lost_password a,
+.woocommerce-MyAccount-content p a{
+	color: #b9a271;
+}
+/*==================== Room Element ====================*/
+.hozing_product_slider .rental_item.room_suits .border-box .content .price_night .wrap_content .amount{
+	font-family: Quicksand;
+}
+
+.hozing_product_slider .rental_item .border-box .wrap_img .price_night .wrap_content .amount,
+.hozing_product_slider .owl-dots .owl-dot span:hover,
+.hozing_product_slider.style1 .owl-dots .owl-dot.active span,
+.hozing_product_slider.style2 .owl-dots .owl-dot.active span,
+.hozing_product_slider.style3 .owl-dots .owl-dot.active span,
+.hozing_product_slider.style4 .owl-dots .owl-dot.active span,
+.hozing_product_slider.style5 .owl-dots .owl-dot.active span,
+.hozing_product_slider.style6 .owl-dots .owl-dot.active span,
+.hozing_product_slider .rental_item.colums_no_sidebar_3v2 .border-box:hover .content .discorver .discover-now,
+.hozing_product_slider .rental_item.room_suits .border-box .content .price_night .wrap_content .amount,
+.hozing_wrap_product_grid .rental_item .border-box .wrap_img .price_night .wrap_content .amount,
+.hozing_wrap_product_grid .view_all_room .view-all:hover,
+.hozing_product_slider .rental_item .border-box .content h3.second_font a:hover,
+.hozing_product_slider .rental_item .border-box .content .discorver .discover-now:hover,
+.hozing_product_slider .rental_item.room_style7 .border-box .content .wrap-content,
+.hozing_wrap_product_grid .rental_item_grid .border-box .content .second_font a:hover,
+.hozing_wrap_product_grid .rental_item_grid .border-box .wrap_img .price_night .wrap_content .amount,
+.woocommerce.single-product .product .price,
+.woocommerce div.product form.cart .group_table td.woocommerce-grouped-product-list-item__price
+{
+	color: #b9a271;
+}
+
+.hozing_product_slider .rental_item.colums_no_sidebar_2v2 .border-box .wrap_img .price_night .wrap_content,
+.hozing_product_slider .rental_item.product_room_list .border-box:hover .content .discorver .discover-now,
+.hozing_product_slider .rental_item.room_suits .border-box .content .enjoy_now,
+.hozing_product_slider .rental_item.room_suits .border-box .wrap_img .enjoy_now,
+.hozing_product_slider .rental_item.colums_no_sidebar_2v2 .border-box .wrap_img .discorver a:hover,
+.hozing_product_slider.style7 .owl-dots .owl-dot.active span,
+.woocommerce.single-product .product .onsale
+{
+	background: #b9a271;
+}
+
+.hozing_product_slider.style2 .owl-dots .owl-dot.active span,
+.hozing_product_slider.style3 .owl-dots .owl-dot.active span,
+.hozing_product_slider.style4 .owl-dots .owl-dot.active span,
+.hozing_product_slider.style5 .owl-dots .owl-dot.active span,
+.hozing_product_slider.style6 .owl-dots .owl-dot.active span,
+.hozing_product_slider.style7 .owl-dots .owl-dot span,
+.hozing_product_slider .rental_item.colums_no_sidebar_3v2 .border-box:hover .content,
+.hozing_product_slider .rental_item.room_suits .border-box .content .discorver .discover-now,
+.hozing_product_slider .rental_item.product_room_list .border-box .content .discorver .discover-now,
+.hozing_wrap_product_grid .view_all_room .view-all:hover,
+.main-room-details #gallery .list-image .owl-dots .owl-dot.active span:before
+
+{
+	border-color: #b9a271;
+}
+
+@media(max-width: 480px){
+	.hozing_product_slider.style6 .owl-nav .owl-prev, .hozing_product_slider.style6 .owl-nav .owl-next,
+	.hozing_product_slider.style6 .owl-nav .owl-prev:hover, .hozing_product_slider.style6 .owl-nav .owl-next:hover{
+		background: #b9a271;
+	}
+}
+
+/*-------- Menu Elementor ------------*/
+.ova_nav ul li.active a,
+.ova_nav ul li a:hover{
+	color: #b9a271;
+}
+
+
+/*-------- Blog  ------------*/
+/** font-family **/
+.sidebar .widget h4.widget-title,
+.sidebar .widget.recent-posts-widget-with-thumbnails li a span,
+h1.page-title,
+.second_font,
+.woocommerce.single-product .product .product_title
+{
+	font-family: Quicksand;
+}
+
+
+.blog-hoz-style article.post-wrap .post-sub-wrap h2.post-title a:hover, 
+.blog-hoz-style article.post-wrap .post-sub-wrap .post-readmore a:hover,
+.blog-hoz-style.blog-hoz-style-2 article.post-wrap .post-sub-wrap .post-readmore a:hover,
+.pagination-wrapper.pag-style-3-blog ul.pagination li.active a,
+.pagination-wrapper.pag-style-3-blog ul.pagination li:hover a,
+.pagination-wrapper.pag-style-1-blog ul.pagination li.active a,
+.pagination-wrapper.pag-style-1-blog ul.pagination li:hover a,
+.pagination-wrapper.pag-style-2-blog ul.pagination li.active a,
+.pagination-wrapper.pag-style-2-blog ul.pagination li:hover a,
+.pagination-wrapper.pag-style-has-sidebar ul.pagination li.active a,
+.pagination-wrapper.pag-style-has-sidebar ul.pagination li:hover a,
+.pagination-wrapper.pag-style-2-blog ul.pagination li.next a:hover,
+.pagination-wrapper.pag-style-2-blog ul.pagination li.prev a:hover,
+.pagination-wrapper.pag-style-has-sidebar ul.pagination li.next a:hover,
+.pagination-wrapper.pag-style-has-sidebar ul.pagination li.prev a:hover, 
+.blog-hoz-has-sidebar article.post-wrap .post-sub-wrap h2.post-title a:hover,
+.blog-hoz-has-sidebar article.post-wrap .post-sub-wrap .post-readmore a:hover,
+.blog-hoz-has-sidebar article.post-wrap:first-child.blog-odd .post-sub-wrap .post-readmore a:hover,
+.blog-hoz-three-col article.post-wrap .post-sub-wrap h2.post-title a:hover,
+.blog-hoz-three-col article.post-wrap .post-sub-wrap .post-readmore a:hover,
+.pagination-wrapper.pag-hoz-three-col ul.pagination li.active a,
+.pagination-wrapper.pag-hoz-three-col ul.pagination li:hover a,
+.sidebar .widget.widget_categories ul li:hover a,
+.sidebar .widget ul.hoz-contac-us li i,
+.sidebar .widget.widget_recent_comments ul li span.comment-author-link,
+.sidebar .widget.widget_recent_comments ul li span.comment-author-link a,
+article.post-wrap.hoz-single-post .post-meta .post-meta-content .post-date span.right:before,
+article.post-wrap.hoz-single-post .post-meta .post-meta-content .post-author span.right:before,
+article.post-wrap.hoz-single-post .post-meta .post-meta-content .comment span.right:before,
+article.post-wrap.hoz-single-post .author_meta .info a.author_link,
+article.post-wrap.hoz-single-post .post_recommend .ova_blog .related-post .bottom h3.post-title a:hover,
+article.post-wrap.hoz-single-post .post_recommend .ova_blog .related-post .bottom .readmore a:hover,
+.single-post .content_comments .comments ul.commentlists li.comment .comment-details .author-name .date,
+.single-post .content_comments .comments .comment-form .form-submit:after,
+.sidebar .widget.recent-posts-widget-with-thumbnails li a span:hover,
+.single-post .content_comments .comments .comment-form .form-submit #submit:hover,
+.post-meta .post-meta-content .left i
+{
+	color: #b9a271;
+}
+
+
+.pagination-wrapper.pag-style-1-blog ul.pagination li.active a,
+.pagination-wrapper.pag-style-1-blog ul.pagination li:hover a,
+.pagination-wrapper.pag-style-2-blog ul.pagination li.active a,
+.pagination-wrapper.pag-style-2-blog ul.pagination li:hover a,
+.pagination-wrapper.pag-style-has-sidebar ul.pagination li.active a,
+.pagination-wrapper.pag-style-has-sidebar ul.pagination li:hover a,
+.blog-hoz-has-sidebar article.post-wrap:first-child.blog-even .post-sub-wrap .post-readmore a,
+.blog-hoz-has-sidebar article.post-wrap:first-child.blog-odd .post-sub-wrap .post-readmore a,
+.sidebar .widget h4.widget-title,
+.single-post .content_comments .comments h4.number-comments,
+.single-post .content_comments .comments .wrap_comment_form h4.title-comment,
+.ova-blog-element.blog_version_4 .ova-button-view-all a,
+.ova-blog-element.blog_version_4 .ova-button-view-all a:hover,
+.pagination-wrapper .pagination li.active a
+{
+	border-color: #b9a271;
+}
+
+.blog-hoz-style.blog-hoz-style-1 article.post-wrap.blog-even .post-sub-wrap h2.post-title:hover:before,
+.blog-hoz-style.blog-hoz-style-1 article.post-wrap.blog-odd .post-sub-wrap .post-readmore a:hover:after,
+.blog-hoz-style.blog-hoz-style-2 article.post-wrap .post-sub-wrap .post-readmore a:before,
+.blog-hoz-has-sidebar article.post-wrap .post-sub-wrap .post-readmore a:before,
+.blog-hoz-three-col article.post-wrap .post-sub-wrap .post-readmore a:hover:after,
+article.post-wrap.hoz-single-post .post_recommend h3.heading-post-title div:after,
+article.post-wrap.hoz-single-post .post_recommend .ova_blog .related-post .bottom .readmore a:hover:after,
+.single-post .content_comments .comments ul.commentlists li.comment .comment-body .ova_reply .comment-reply-link:hover,
+.single-post .content_comments .comments ul.commentlists li.comment .comment-body .ova_reply .comment-edit-link:hover,
+.ova-blog-element.blog_version_4 .post-item .info-item .post-excerpt:after,
+.pagination-wrapper .pagination li.active a
+{
+	background-color: #b9a271;
+}
+
+
+/* Detail */
+.product-type-ovacrs_car_rental{
+	margin-top: 0px;
+	z-index: 1;
+}
+
+/* Room Category */
+
+.wrap_site.archive_rental .hozing_wd_search,
+.archive_rental .sidebar.woo-sidebar{
+	margin-top: -50px !important;
+	z-index: 1;
+}
+
+/******** menu canvas *****/
+.ova_menu_canvas .ova_nav_canvas .check-room .wrap-check-form .hotel_field.btn_search .btn_tran:hover
+{
+	color: #b9a271;
+}
+.ova_menu_canvas .ova_nav_canvas .check-room .wrap-check-form .hotel_field.btn_search .btn_tran,
+.ova_menu_canvas .ova_nav_canvas .wp-title .title-menu
+{
+	border-color: #b9a271!important;
+}
+@media( max-width: 1024px ){
+	.product-type-ovacrs_car_rental{
+		margin-top: 0;
+	}
+}
+
+</style>
+<link rel='stylesheet' id='ova-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Condensed%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CQuicksand%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900' type='text/css' media='all' />
+<link rel='stylesheet' id='recent-posts-widget-with-thumbnails-public-style-css'  href='../wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=7.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='../wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='flaticon-css'  href='../wp-content/plugins/ova-framework/assets/libs/flaticon/font/flaticon.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-elementor-css'  href='../wp-content/plugins/ova-framework/assets/css/style-elementor.css' type='text/css' media='all' />
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='wpmenucart-ajax-assist-js-extra'>
+/* <![CDATA[ */
+var wpmenucart_ajax_assist = {"shop_plugin":"woocommerce","always_display":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/woocommerce-menu-bar-cart/javascript/wpmenucart-ajax-assist.js?ver=2.9.8' id='wpmenucart-ajax-assist-js'></script>
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-204654553-1' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["complexehotelmosaly.com"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-204654553-1", {"anonymize_ip":true});
+gtag("config", "G-M7FM4QGC8V");
+</script>
+<script type='text/javascript' src='../wp-content/plugins/ova-framework/assets/libs/jquery-countdown/jquery.plugin.min.js' id='jquery-countdown-plugin-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/ova-framework/assets/libs/jquery-countdown/jquery.countdown.min.js' id='jquery-countdown-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/ova-framework/assets/libs/jquery-countdown/jquery.countdown-fr.js' id='jquery-countdown--js'></script>
+<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/8" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.3" />
+<meta name="generator" content="WooCommerce 5.4.2" />
+<link rel="canonical" href="../checkout/index.html" />
+<link rel='shortlink' href='../index.html?p=8' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed?url=https%253A%252F%252Fcomplexehotelmosaly.com%252Fcart%252F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed?url=https%253A%252F%252Fcomplexehotelmosaly.com%252Fcart%252F&amp;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.38.0" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<script type="text/javascript">if (typeof ajaxurl === "undefined") {var ajaxurl = "https://complexehotelmosaly.com/wp-admin/admin-ajax.php"}</script></head>
+
+<body class="page-template page-template-elementor_theme page page-id-8 theme-hozing woocommerce-cart woocommerce-page woocommerce-no-js elementor-default elementor-kit-6547" ><div class="ova-wrapp">
+
+	
+		<div data-elementor-type="wp-post" data-elementor-id="4604" class="elementor elementor-4604" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-15229e2 elementor-section-content-middle elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="15229e2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-6251541" data-id="6251541" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b4ba7ea elementor-hidden-phone elementor-widget elementor-widget-text-editor" data-id="b4ba7ea" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<p>Bienvenue au Complexe Hôtel MOSALY&#8230;</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-a393b3a" data-id="a393b3a" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-a5a5d2c" data-id="a5a5d2c" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-ac0f9b5" data-id="ac0f9b5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-38ccbaf elementor-widget__width-auto elementor-widget elementor-widget-ova_social" data-id="38ccbaf" data-element_type="widget" data-widget_type="ova_social.default">
+				<div class="elementor-widget-container">
+					<div class="ova_social ova-framework-social-icons-wrapper">
+			
+								<a class="ova-framework-icon ova-framework-social-icon ova-framework-social-icon-facebook elementor-animation-pop" style=" color: #bbbbbb;" href="https://www.facebook.com/complexehotelmosaly/" target="_blank">
+					<span class="ova-framework-screen-only">Facebook</span>
+					<i class="fa fa-facebook" style=""></i>
+				</a>
+			
+								<a class="ova-framework-icon ova-framework-social-icon ova-framework-social-icon-youtube elementor-animation-pop" style=" color: #bbbbbb;" href="https://www.youtube.com/channel/UCdGN63ZRasuKg_gX1NcF0NQ/videos" target="_blank">
+					<span class="ova-framework-screen-only">Youtube</span>
+					<i class="fa fa-youtube" style=""></i>
+				</a>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-03d20a1" data-id="03d20a1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0ee2264 elementor-hidden-phone elementor-widget__width-auto elementor-align-right elementor-widget elementor-widget-button" data-id="0ee2264" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="../room-category/all/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="far fa-gem"></i>			</span>
+						<span class="elementor-button-text">RESERVER</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ab1975c elementor-section-content-middle ovamenu_shrink elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ab1975c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7748ab9" data-id="7748ab9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7053339 elementor-widget elementor-widget-ova_logo" data-id="7053339" data-element_type="widget" data-widget_type="ova_logo.default">
+				<div class="elementor-widget-container">
+			
+			<a class="ova_logo" href="../index.html">
+				<img src="../wp-content/uploads/2018/12/logo_blanc.png" alt="HOTEL MOSALY" class="desk-logo d-none d-xl-block" />
+				<img src="../wp-content/uploads/2018/12/logo_blanc.png" alt="HOTEL MOSALY" class="mobile-logo d-block d-xl-none" />
+
+				<img src="../wp-content/uploads/2018/12/logo_blanc.png" alt="HOTEL MOSALY" class="logo-fixed" />
+			</a>
+
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1184186" data-id="1184186" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-86aaa41 elementor-view-primary-menu elementor-widget__width-auto elementor-widget elementor-widget-ova_menu" data-id="86aaa41" data-element_type="widget" data-widget_type="ova_menu.default">
+				<div class="elementor-widget-container">
+					<div class="ova_menu_clasic">
+			<div class="ova_wrap_nav row NavBtn_right NavBtn_right_m">
+
+					<button class="ova_openNav" type="button">
+						<i class="fas fa-bars"></i>
+					</button>
+
+					<div class="ova_nav canvas_left canvas_bg_gray">
+						<a href="javascript:void(0)" class="ova_closeNav"><i class="fas fa-times"></i></a>
+						<ul id="menu-primary-menu" class="menu sub_menu_dir_right"><li id="menu-item-6848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-6848"><a title="ACCUEIL" href="../index.html">ACCUEIL</a></li>
+<li id="menu-item-7008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7008"><a title="Appartements" href="../index.html?p=79">Appartements</a></li>
+<li id="menu-item-7210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7210"><a title="Conferences et fetes" href="../index.html?p=7203">Conferences et fetes</a></li>
+<li id="menu-item-7280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7280"><a title="Fitness&#038;Gym" href="../index.html?p=7278">Fitness&#038;Gym</a></li>
+<li id="menu-item-5522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5522"><a title="CONTACT" href="../index.html?p=2451"><span class="glyphicon 						"></span>&nbsp;CONTACT</a></li>
+<li id="menu-item-7536" class="menu-item menu-item-type-gs_sim menu-item-object-gs_sim menu-item-7536"><!-- GTranslate: https://gtranslate.io/ -->
+<a href="index.html?undo_item=f94778df58fec780ff952344ac5a2442&amp;_wpnonce=3df0e5f5f6#" onclick="doGTranslate('fr|en');return false;" title="English" class="glink nturl notranslate"><img src="../wp-content/plugins/gtranslate/flags/24/en.png" height="24" width="24" alt="English" /></a><a href="index.html?undo_item=f94778df58fec780ff952344ac5a2442&amp;_wpnonce=3df0e5f5f6#" onclick="doGTranslate('fr|fr');return false;" title="French" class="glink nturl notranslate"><img src="../wp-content/plugins/gtranslate/flags/24/fr.png" height="24" width="24" alt="French" /></a><style>
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+.goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+</style>
+
+<div id="google_translate_element2"></div>
+<script>
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'fr',autoDisplay: false}, 'google_translate_element2');}
+</script><script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+
+
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+</script>
+</li>
+<li class="menu-item wpmenucartli wpmenucart-display-standard menu-item hidden-wpmenucart" id="wpmenucartli"><a class="wpmenucart-contents" href="../checkout/index.html" title="Voir mon panier"><i class="wpmenucart-icon-shopping-cart-0" role="img" aria-label="Panier"></i><span class="cartcontents">3 Articles</span></a></li></ul>					</div>
+
+				<div class="ova_closeCanvas ova_closeNav"></div>
+			</div>
+		</div>
+	
+		
+
+			</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+			<div class="wrap_site">
+		<div id="main-content" class="main layout_1c">
+			    <h1 class="post-title second_font">
+    	Caisse    </h1>
+
+<div class="woocommerce"><div class="woocommerce-notices-wrapper"></div>
+<form class="woocommerce-cart-form" action="../checkout/index.html" method="post">
+	
+	<table class="shop_table shop_table_responsive cart woocommerce-cart-form__contents" cellspacing="0">
+		<thead>
+			<tr>
+				<th class="product-remove">&nbsp;</th>
+				<th class="product-thumbnail">&nbsp;</th>
+				<th class="product-name">Produit</th>
+				<th class="product-price">Prix</th>
+				<th class="product-quantity">Quantité</th>
+				<th class="product-subtotal">Sous-total</th>
+			</tr>
+		</thead>
+		<tbody>
+			
+								<tr class="woocommerce-cart-form__cart-item cart_item">
+
+						<td class="product-remove">
+							<a href="index.html?remove_item=f94778df58fec780ff952344ac5a2442&amp;_wpnonce=3df0e5f5f6" class="remove" aria-label="Enlever cet élément" data-product_id="7466" data-product_sku="">&times;</a>						</td>
+
+						<td class="product-thumbnail">
+						<a href="../index.html?p=7466"><img width="300" height="300" src="../wp-content/uploads/2021/06/gym-2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="../wp-content/uploads/2021/06/gym-2-300x300.jpg 300w, ../wp-content/uploads/2021/06/gym-2-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>						</td>
+
+						<td class="product-name" data-title="Produit">
+						<a href="../index.html?p=7466">10 Séances</a>						</td>
+
+						<td class="product-price" data-title="Prix">
+							<span class="woocommerce-Price-amount amount"><bdi>10.000&nbsp;<span class="woocommerce-Price-currencySymbol">CFA</span></bdi></span>						</td>
+
+						<td class="product-quantity" data-title="Quantité">
+							<div class="quantity">
+				<label class="screen-reader-text" for="quantity_613b466f818d1">quantité de 10 Séances</label>
+		<input
+			type="number"
+			id="quantity_613b466f818d1"
+			class="input-text qty text"
+			step="1"
+			min="0"
+			max=""
+			name="cart[f94778df58fec780ff952344ac5a2442][qty]"
+			value="3"
+			title="Qté"
+			size="4"
+			placeholder=""
+			inputmode="numeric" />
+			</div>
+							</td>
+
+						<td class="product-subtotal" data-title="Sous-total">
+							<span class="woocommerce-Price-amount amount"><bdi>30.000&nbsp;<span class="woocommerce-Price-currencySymbol">CFA</span></bdi></span>						</td>
+					</tr>
+					
+			
+			<tr>
+				<td colspan="6" class="actions">
+
+					
+					<button type="submit" class="button" name="update_cart" value="Mettre à jour le panier">Mettre à jour le panier</button>
+
+					
+					<input type="hidden" id="woocommerce-cart-nonce" name="woocommerce-cart-nonce" value="3df0e5f5f6" /><input type="hidden" name="_wp_http_referer" value="/cart/?removed_item=1" />				</td>
+			</tr>
+
+					</tbody>
+	</table>
+	</form>
+
+
+<div class="cart-collaterals">
+	<div class="cart_totals ">
+
+	
+	<h2>Total panier</h2>
+
+	<table cellspacing="0" class="shop_table shop_table_responsive">
+
+		<tr class="cart-subtotal">
+			<th>Sous-total</th>
+			<td data-title="Sous-total"><span class="woocommerce-Price-amount amount"><bdi>30.000&nbsp;<span class="woocommerce-Price-currencySymbol">CFA</span></bdi></span></td>
+		</tr>
+
+		
+		
+		
+		
+		
+		<tr class="order-total">
+			<th>Total</th>
+			<td data-title="Total"><strong><span class="woocommerce-Price-amount amount"><bdi>30.000&nbsp;<span class="woocommerce-Price-currencySymbol">CFA</span></bdi></span></strong> </td>
+		</tr>
+
+		
+	</table>
+
+	<div class="wc-proceed-to-checkout">
+		
+<a href="../checkout/index.html" class="checkout-button button alt wc-forward">
+	Valider la commande</a>
+	</div>
+
+	
+</div>
+</div>
+
+</div>
+<div class="page-links">
+	
+</div>	
+		</div> <!-- #main-content -->
+			</div> <!-- .wrap_site -->
+
+				<div data-elementor-type="wp-post" data-elementor-id="3747" class="elementor elementor-3747" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-01c32d4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="01c32d4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3055dfb" data-id="3055dfb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5a8107e elementor-widget elementor-widget-ova_info_footer" data-id="5a8107e" data-element_type="widget" data-widget_type="ova_info_footer.default">
+				<div class="elementor-widget-container">
+					
+		<div class="ova_info_footer version_1" style="">
+			<div class="wrap_title">
+				<div class="title second_font">Localisation</div>
+			</div>
+			<div class="list_info">
+									<div class="info">Cotonou, von de l'annexe Haute Autorité de l'Audiovisuel et de la Communication (​HAAC), von en face de l'agence MTN  Jonquet</div>
+									<div class="info">PK10, voie pavée HOUDEGBE, 3ème rue à gauche (Rue du caniveau), 4ème Rue à droite.</div>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9f5ea72" data-id="9f5ea72" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-bd47b12 elementor-widget elementor-widget-ova_info_footer" data-id="bd47b12" data-element_type="widget" data-widget_type="ova_info_footer.default">
+				<div class="elementor-widget-container">
+					
+		<div class="ova_info_footer version_1" style="">
+			<div class="wrap_title">
+				<div class="title second_font">Telephone</div>
+			</div>
+			<div class="list_info">
+									<div class="info">Tel.: +229 61473030 </div>
+									<div class="info">Tel: +229 66002628</div>
+									<div class="info">reservation@complexehotelmosaly.com</div>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-40195f6" data-id="40195f6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f9b543b elementor-widget elementor-widget-ova_info_footer" data-id="f9b543b" data-element_type="widget" data-widget_type="ova_info_footer.default">
+				<div class="elementor-widget-container">
+					
+		<div class="ova_info_footer version_1" style="">
+			<div class="wrap_title">
+				<div class="title second_font">Disponibilité</div>
+			</div>
+			<div class="list_info">
+									<div class="info"></div>
+									<div class="info"></div>
+									<div class="info">En ligne 24/7</div>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-69e490b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="69e490b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-29e61c1" data-id="29e61c1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8c1b1e2 elementor-widget elementor-widget-ova_menu_footer" data-id="8c1b1e2" data-element_type="widget" data-widget_type="ova_menu_footer.default">
+				<div class="elementor-widget-container">
+					<div class="ova_menu_footer">
+			<ul id="menu-menu-footer" class="menu"><li id="menu-item-7444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7444"><a title="Appartements" href="../index.html?p=79">Appartements</a></li>
+<li id="menu-item-7445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7445"><a title="Fitness&#038;Gym" href="../index.html?p=7278">Fitness&#038;Gym</a></li>
+<li id="menu-item-7446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7446"><a title="Salle conferences et fetes" href="../index.html?p=7203">Salle conferences et fetes</a></li>
+</ul>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7046551 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7046551" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b31f9cc" data-id="b31f9cc" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a7b2a04 elementor-widget elementor-widget-ova_copyright" data-id="a7b2a04" data-element_type="widget" data-widget_type="ova_copyright.default">
+				<div class="elementor-widget-container">
+					<div class="ova_copyright" style="align-items: center"><p style="text-align: center;">©2021</p><h2 class="elementor-heading-title elementor-size-xxl">COMPLEXE HOTEL MOSALY</h2><p style="text-align: center;"><br />created by C2I Startup - 00229 67 65 91 91</p></div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-688d84a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="688d84a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-942a10b" data-id="942a10b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c4e1527 elementor-widget elementor-widget-ova_menu_footer" data-id="c4e1527" data-element_type="widget" data-widget_type="ova_menu_footer.default">
+				<div class="elementor-widget-container">
+					<div class="ova_menu_footer">
+			<ul id="menu-support" class="menu"><li id="menu-item-7450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-7450"><a title="Politique de confidentialité" href="../index.html?p=3">Politique de confidentialité</a></li>
+<li id="menu-item-7451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7451"><a title="Mentions Légales" href="../index.html?p=7448">Mentions Légales</a></li>
+</ul>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+					
+		</div> <!-- Ova Wrapper -->	
+		<div class="container"></div>
+			<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='elementor-post-4604-css'  href='../wp-content/uploads/elementor/css/post-4604.css?ver=1628635517' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-3747-css'  href='../wp-content/uploads/elementor/css/post-3747.css?ver=1624357384' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.11.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='../wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-6547-css'  href='../wp-content/uploads/elementor/css/post-6547.css?ver=1623357913' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='../wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css'  href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.1' type='text/css' media='all' />
+<script type='text/javascript' src='../wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="../wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="../wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="../wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="../wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="../wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="../wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="../wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/complexehotelmosaly.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/ova-hotel/assets/plugins/jquery-ui/jquery-ui.min.js' id='datepicker-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/ova-hotel/assets/plugins/jquery-ui/lang/datepicker-fr.js' id='datepicker_lang-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/ova-hotel/assets/plugins/select2/select2.min.js' id='select2-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/ova-hotel/assets/plugins/jquery.validate.min.js' id='validate-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/ova-hotel/assets/ova-hotel.js' id='ova_hotel-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Voir le panier","cart_url":"https:\/\/complexehotelmosaly.com\/cart\/","is_cart":"1","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.4.2' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.4.2' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-country-select-js-extra'>
+/* <![CDATA[ */
+var wc_country_select_params = {"countries":"{\"AF\":[],\"AO\":{\"BGO\":\"Bengo\",\"BLU\":\"Bengu\\u00e9la\",\"BIE\":\"Bi\\u00e9\",\"CAB\":\"Cabinda\",\"CNN\":\"Kunene\",\"HUA\":\"Huambo\",\"HUI\":\"Huila\",\"CCU\":\"Kwando-Kubango\",\"CNO\":\"Kwanza-Nord\",\"CUS\":\"Kwanza-Sud\",\"LUA\":\"Luanda\",\"LNO\":\"Lunda-Nord\",\"LSU\":\"Lunda-Sud\",\"MAL\":\"Malanje\",\"MOX\":\"Moxico\",\"NAM\":\"Namibe\",\"UIG\":\"U\\u00edge\",\"ZAI\":\"Za\\u00efre\"},\"AR\":{\"C\":\"Ciudad Aut\\u00f3noma de Buenos Aires\",\"B\":\"Buenos Aires\",\"K\":\"Province de Catamarca\",\"H\":\"Province du Chaco\",\"U\":\"Province de Chubut\",\"X\":\"C\\u00f3rdoba\",\"W\":\"Province de Corrientes\",\"E\":\"Entre R\\u00edos\",\"P\":\"Province de Formosa\",\"Y\":\"Province de Jujuy\",\"L\":\"La Pampa\",\"F\":\"La Rioja\",\"M\":\"Mendoza\",\"N\":\"Province de Misiones\",\"Q\":\"Neuqu\\u00e9n\",\"R\":\"R\\u00edo Negro\",\"A\":\"Salta\",\"J\":\"San Juan\",\"D\":\"San Luis\",\"Z\":\"Santa Cruz\",\"S\":\"Santa Fe\",\"G\":\"Province de Santiago del Estero\",\"V\":\"Terre de Feu\",\"T\":\"Tucum\\u00e1n\"},\"AT\":[],\"AU\":{\"ACT\":\"Australian Capital Territory\",\"NSW\":\"New South Wales\",\"NT\":\"Territoire du Nord\",\"QLD\":\"Queensland\",\"SA\":\"South Australia\",\"TAS\":\"Tasmania\",\"VIC\":\"Victoria\",\"WA\":\"Western Australia\"},\"AX\":[],\"BD\":{\"BD-05\":\"Bagerhat\",\"BD-01\":\"Bandarban\",\"BD-02\":\"Barguna\",\"BD-06\":\"Barisal\",\"BD-07\":\"Bhola\",\"BD-03\":\"Bogra\",\"BD-04\":\"Brahmanbaria\",\"BD-09\":\"Chandpur\",\"BD-10\":\"Chattogram\",\"BD-12\":\"Chuadanga\",\"BD-11\":\"Cox\u2019s Bazar\",\"BD-08\":\"Comilla\",\"BD-13\":\"Dhaka\",\"BD-14\":\"Dinajpur\",\"BD-15\":\"Faridpur \",\"BD-16\":\"Feni\",\"BD-19\":\"Gaibandha\",\"BD-18\":\"Gazipur\",\"BD-17\":\"Gopalganj\",\"BD-20\":\"Habiganj\",\"BD-21\":\"Jamalpur\",\"BD-22\":\"Jashore\",\"BD-25\":\"Jhalokati\",\"BD-23\":\"Jhenaidah\",\"BD-24\":\"Joypurhat\",\"BD-29\":\"Khagrachhari\",\"BD-27\":\"Khulna\",\"BD-26\":\"Kishoreganj\",\"BD-28\":\"Kurigram\",\"BD-30\":\"Kushtia\",\"BD-31\":\"Lakshmipur\",\"BD-32\":\"Lalmonirhat\",\"BD-36\":\"Madaripur\",\"BD-37\":\"Magura\",\"BD-33\":\"Manikganj \",\"BD-39\":\"Meherpur\",\"BD-38\":\"Moulvibazar\",\"BD-35\":\"Munshiganj\",\"BD-34\":\"Mymensingh\",\"BD-48\":\"Naogaon\",\"BD-43\":\"Narail\",\"BD-40\":\"Narayanganj\",\"BD-42\":\"Narsingdi\",\"BD-44\":\"Natore\",\"BD-45\":\"Nawabganj\",\"BD-41\":\"Netrakona\",\"BD-46\":\"Nilphamari\",\"BD-47\":\"Noakhali\",\"BD-49\":\"Pabna\",\"BD-52\":\"Panchagarh\",\"BD-51\":\"Patuakhali\",\"BD-50\":\"Pirojpur\",\"BD-53\":\"Rajbari\",\"BD-54\":\"Rajshahi\",\"BD-56\":\"Rangamati\",\"BD-55\":\"Rangpur\",\"BD-58\":\"Satkhira\",\"BD-62\":\"Shariatpur\",\"BD-57\":\"Sherpur\",\"BD-59\":\"Sirajganj\",\"BD-61\":\"Sunamganj\",\"BD-60\":\"Sylhet\",\"BD-63\":\"Tangail\",\"BD-64\":\"Thakurgaon\"},\"BE\":[],\"BG\":{\"BG-01\":\"Blagoevgrad\",\"BG-02\":\"Burgas\",\"BG-08\":\"Dobrich\",\"BG-07\":\"Gabrovo\",\"BG-26\":\"Haskovo\",\"BG-09\":\"Kardzhali\",\"BG-10\":\"Kyustendil\",\"BG-11\":\"Lovech\",\"BG-12\":\"Montana\",\"BG-13\":\"Pazardzhik\",\"BG-14\":\"Pernik\",\"BG-15\":\"Pleven\",\"BG-16\":\"Plovdiv\",\"BG-17\":\"Razgrad\",\"BG-18\":\"Ruse\",\"BG-27\":\"Shumen\",\"BG-19\":\"Silistra\",\"BG-20\":\"Sliven\",\"BG-21\":\"Smolyan\",\"BG-23\":\"Sofia\",\"BG-22\":\"Sofia-Grad\",\"BG-24\":\"Stara Zagora\",\"BG-25\":\"Targovishte\",\"BG-03\":\"Varna\",\"BG-04\":\"Veliko Tarnovo\",\"BG-05\":\"Vidin\",\"BG-06\":\"Vratsa\",\"BG-28\":\"Yambol\"},\"BH\":[],\"BI\":[],\"BJ\":{\"AL\":\"Alibori\",\"AK\":\"Atakora\",\"AQ\":\"Atlantique\",\"BO\":\"Borgou\",\"CO\":\"Collines\",\"KO\":\"Kouffo\",\"DO\":\"Donga\",\"LI\":\"Littoral\",\"MO\":\"Mono\",\"OU\":\"Ou\\u00e9m\\u00e9\",\"PL\":\"Plateau\",\"ZO\":\"Zou\"},\"BO\":{\"B\":\"Chuquisaca\",\"H\":\"Beni\",\"C\":\"Cochabamba\",\"L\":\"La Paz\",\"O\":\"Oruro\",\"N\":\"Pando\",\"P\":\"Potos\\u00ed\",\"S\":\"Santa Cruz\",\"T\":\"Tarija\"},\"BR\":{\"AC\":\"Acre\",\"AL\":\"Alagoas\",\"AP\":\"Amap\\u00e1\",\"AM\":\"Amazonas\",\"BA\":\"Bahia\",\"CE\":\"Cear\\u00e1\",\"DF\":\"Distrito Federal\",\"ES\":\"Esp\\u00edrito Santo\",\"GO\":\"Goi\\u00e1s\",\"MA\":\"Maranh\\u00e3o\",\"MT\":\"Mato Grosso\",\"MS\":\"Mato Grosso do Sul\",\"MG\":\"Minas Gerais\",\"PA\":\"Par\\u00e1\",\"PB\":\"Para\\u00edba\",\"PR\":\"Paran\\u00e1\",\"PE\":\"Pernambuco\",\"PI\":\"Piau\\u00ed\",\"RJ\":\"Rio de Janeiro\",\"RN\":\"Rio Grande do Norte\",\"RS\":\"Rio Grande do Sul\",\"RO\":\"Rond\\u00f4nia\",\"RR\":\"Roraima\",\"SC\":\"Santa Catarina\",\"SP\":\"S\\u00e3o Paulo\",\"SE\":\"Sergipe\",\"TO\":\"Tocantins\"},\"CA\":{\"AB\":\"Alberta\",\"BC\":\"Colombie-Britannique\",\"MB\":\"Manitoba\",\"NB\":\"Nouveau-Brunswick\",\"NL\":\"Terre-Neuve-et-Labrador\",\"NT\":\"Territoires du Nord-Ouest\",\"NS\":\"Nouvelle-\\u00c9cosse\",\"NU\":\"Nunavut\",\"ON\":\"Ontario\",\"PE\":\"\\u00cele du Prince-\\u00c9douard\",\"QC\":\"Qu\\u00e9bec\",\"SK\":\"Saskatchewan\",\"YT\":\"Yukon\"},\"CH\":{\"AG\":\"Argovie\",\"AR\":\"Appenzell Rhodes-Ext\\u00e9rieures\",\"AI\":\"Appenzell Rhodes-Int\\u00e9rieures\",\"BL\":\"B\\u00e2le-Campagne\",\"BS\":\"B\\u00e2le-Ville\",\"BE\":\"Berne\",\"FR\":\"Fribourg\",\"GE\":\"Gen\\u00e8ve\",\"GL\":\"Glaris\",\"GR\":\"Graub\\u00fcnden\",\"JU\":\"Jura\",\"LU\":\"Lucerne\",\"NE\":\"Neuch\\u00e2tel\",\"NW\":\"Nidwald\",\"OW\":\"Obwald\",\"SH\":\"Schaffhouse\",\"SZ\":\"Schwytz\",\"SO\":\"Soleure\",\"SG\":\"Saint-Gall\",\"TG\":\"Thurgovie\",\"TI\":\"Tessin\",\"UR\":\"Uri\",\"VS\":\"Valais\",\"VD\":\"Vaud\",\"ZG\":\"Zoug\",\"ZH\":\"Z\\u00fcrich\"},\"CN\":{\"CN1\":\"Yunnan \\\/ \\u4e91\\u5357\",\"CN2\":\"Beijing \\\/ \\u5317\\u4eac\",\"CN3\":\"Tianjin \\\/ \\u5929\\u6d25\",\"CN4\":\"Hebei \\\/ \\u6cb3\\u5317\",\"CN5\":\"Shanxi \\\/ \\u5c71\\u897f\",\"CN6\":\"Inner Mongolia \\\/ \\u5167\\u8499\\u53e4\",\"CN7\":\"Liaoning \\\/ \\u8fbd\\u5b81\",\"CN8\":\"Jilin \\\/ \\u5409\\u6797\",\"CN9\":\"Heilongjiang \\\/ \\u9ed1\\u9f99\\u6c5f\",\"CN10\":\"Shanghai \\\/ \\u4e0a\\u6d77\",\"CN11\":\"Jiangsu \\\/ \\u6c5f\\u82cf\",\"CN12\":\"Zhejiang \\\/ \\u6d59\\u6c5f\",\"CN13\":\"Anhui \\\/ \\u5b89\\u5fbd\",\"CN14\":\"Fujian \\\/ \\u798f\\u5efa\",\"CN15\":\"Jiangxi \\\/ \\u6c5f\\u897f\",\"CN16\":\"Shandong \\\/ \\u5c71\\u4e1c\",\"CN17\":\"Henan \\\/ \\u6cb3\\u5357\",\"CN18\":\"Hubei \\\/ \\u6e56\\u5317\",\"CN19\":\"Hunan \\\/ \\u6e56\\u5357\",\"CN20\":\"Guangdong \\\/ \\u5e7f\\u4e1c\",\"CN21\":\"Guangxi Zhuang \\\/ \\u5e7f\\u897f\\u58ee\\u65cf\",\"CN22\":\"Hainan \\\/ \\u6d77\\u5357\",\"CN23\":\"Chongqing \\\/ \\u91cd\\u5e86\",\"CN24\":\"Sichuan \\\/ \\u56db\\u5ddd\",\"CN25\":\"Guizhou \\\/ \\u8d35\\u5dde\",\"CN26\":\"Shaanxi \\\/ \\u9655\\u897f\",\"CN27\":\"Gansu \\\/ \\u7518\\u8083\",\"CN28\":\"Qinghai \\\/ \\u9752\\u6d77\",\"CN29\":\"Ningxia Hui \\\/ \\u5b81\\u590f\",\"CN30\":\"Macao \\\/ \\u6fb3\\u95e8\",\"CN31\":\"Tibet \\\/ \\u897f\\u85cf\",\"CN32\":\"Xinjiang \\\/ \\u65b0\\u7586\"},\"CZ\":[],\"DE\":[],\"DK\":[],\"DO\":{\"DO-01\":\"Distrito Nacional\",\"DO-02\":\"Azua\",\"DO-03\":\"Baoruco\",\"DO-04\":\"Barahona\",\"DO-05\":\"Dajab\\u00f3n\",\"DO-06\":\"Duarte\",\"DO-07\":\"El\\u00edas Pi\\u00f1a\",\"DO-08\":\"El Seibo\",\"DO-09\":\"Espaillat\",\"DO-10\":\"Independencia\",\"DO-11\":\"La Altagracia\",\"DO-12\":\"La Romana\",\"DO-13\":\"La Vega\",\"DO-14\":\"Mar\\u00eda Trinidad S\\u00e1nchez\",\"DO-15\":\"Monte Cristi\",\"DO-16\":\"Pedernales\",\"DO-17\":\"Peravia\",\"DO-18\":\"Puerto Plata\",\"DO-19\":\"Hermanas Mirabal\",\"DO-20\":\"Saman\\u00e1\",\"DO-21\":\"San Crist\\u00f3bal\",\"DO-22\":\"San Juan\",\"DO-23\":\"San Pedro de Macor\\u00eds\",\"DO-24\":\"S\\u00e1nchez Ram\\u00edrez\",\"DO-25\":\"Santiago du Chili\",\"DO-26\":\"Santiago Rodr\\u00edguez\",\"DO-27\":\"Valverde\",\"DO-28\":\"Monse\\u00f1or Nouel\",\"DO-29\":\"Monte Plata\",\"DO-30\":\"Hato Mayor\",\"DO-31\":\"San Jos\\u00e9 de Ocoa\",\"DO-32\":\"Saint-Domingue\"},\"DZ\":{\"DZ-01\":\"Adrar\",\"DZ-02\":\"Chlef\",\"DZ-03\":\"Laghouat\",\"DZ-04\":\"Oum El Bouaghi\",\"DZ-05\":\"Batna\",\"DZ-06\":\"B\\u00e9ja\\u00efa\",\"DZ-07\":\"Biskra\",\"DZ-08\":\"B\\u00e9char\",\"DZ-09\":\"Blida\",\"DZ-10\":\"Bouira\",\"DZ-11\":\"Tamanrasset\",\"DZ-12\":\"T\\u00e9bessa\",\"DZ-13\":\"Tlemcen\",\"DZ-14\":\"Tiaret\",\"DZ-15\":\"Tizi Ouzou\",\"DZ-16\":\"Alger\",\"DZ-17\":\"Djelfa\",\"DZ-18\":\"Jijel\",\"DZ-19\":\"S\\u00e9tif\",\"DZ-20\":\"Sa\\u00efda\",\"DZ-21\":\"Skikda\",\"DZ-22\":\"Sidi Bel Abb\\u00e8s\",\"DZ-23\":\"Annaba\",\"DZ-24\":\"Guelma\",\"DZ-25\":\"Constantine\",\"DZ-26\":\"M\\u00e9d\\u00e9a\",\"DZ-27\":\"Mostaganem\",\"DZ-28\":\"M\\u2019Sila\",\"DZ-29\":\"Mascara\",\"DZ-30\":\"Ouargla\",\"DZ-31\":\"Oran\",\"DZ-32\":\"El Bayadh\",\"DZ-33\":\"Illizi\",\"DZ-34\":\"Bordj Bou Arr\\u00e9ridj\",\"DZ-35\":\"Boumerd\\u00e8s\",\"DZ-36\":\"El Tarf\",\"DZ-37\":\"Tindouf\",\"DZ-38\":\"Tissemsilt\",\"DZ-39\":\"El Oued\",\"DZ-40\":\"Khenchela\",\"DZ-41\":\"Souk Ahras\",\"DZ-42\":\"Tipasa\",\"DZ-43\":\"Mila\",\"DZ-44\":\"A\\u00efn Defla\",\"DZ-45\":\"Na\\u00e2ma\",\"DZ-46\":\"A\\u00efn T\\u00e9mouchent\",\"DZ-47\":\"Gharda\\u00efa\",\"DZ-48\":\"Relizane\"},\"EE\":[],\"EG\":{\"EGALX\":\"Alexandria\",\"EGASN\":\"Aswan\",\"EGAST\":\"Asyut\",\"EGBA\":\"Red Sea\",\"EGBH\":\"Beheira\",\"EGBNS\":\"Beni Suef\",\"EGC\":\"Cairo\",\"EGDK\":\"Dakahlia\",\"EGDT\":\"Damietta\",\"EGFYM\":\"Faiyum\",\"EGGH\":\"Gharbia\",\"EGGZ\":\"Giza\",\"EGIS\":\"Ismailia\",\"EGJS\":\"South Sinai\",\"EGKB\":\"Qalyubia\",\"EGKFS\":\"Kafr el-Sheikh\",\"EGKN\":\"Qena\",\"EGLX\":\"Luxor\",\"EGMN\":\"Minya\",\"EGMNF\":\"Monufia\",\"EGMT\":\"Matrouh\",\"EGPTS\":\"Port Said\",\"EGSHG\":\"Sohag\",\"EGSHR\":\"Al Sharqia\",\"EGSIN\":\"North Sinai\",\"EGSUZ\":\"Suez\",\"EGWAD\":\"New Valley\"},\"ES\":{\"C\":\"A Coru\\u00f1a\",\"VI\":\"Araba\\\/\\u00c1lava\",\"AB\":\"Albacete\",\"A\":\"Alicante\",\"AL\":\"Almer\\u00eda\",\"O\":\"Asturies\",\"AV\":\"\\u00c1vila\",\"BA\":\"Badajoz\",\"PM\":\"Les Bal\u00e9ares\",\"B\":\"Barcelone\",\"BU\":\"Burgos\",\"CC\":\"C\\u00e1ceres\",\"CA\":\"C\\u00e1diz\",\"S\":\"Cantabrie\",\"CS\":\"Castell\\u00f3n\",\"CE\":\"Ceuta\",\"CR\":\"Ciudad Real\",\"CO\":\"C\\u00f3rdoba\",\"CU\":\"Cuenca\",\"GI\":\"G\u00e9rone\",\"GR\":\"Grenade\",\"GU\":\"Guadalajara\",\"SS\":\"Guipuscoa\",\"H\":\"Huelva\",\"HU\":\"Huesca\",\"J\":\"Ja\\u00e9n\",\"LO\":\"La Rioja\",\"GC\":\"Las Palmas\",\"LE\":\"Le\\u00f3n\",\"L\":\"Lleida\",\"LU\":\"Lugo\",\"M\":\"Madrid\",\"MA\":\"M\\u00e1laga\",\"ML\":\"Melilla\",\"MU\":\"Murcia\",\"NA\":\"Navarre\",\"OR\":\"Ourense\",\"P\":\"Palencia\",\"PO\":\"Pontevedra\",\"SA\":\"Salamanca\",\"TF\":\"Santa Cruz de Tenerife\",\"SG\":\"S\u00e9govie\",\"SE\":\"S\u00e9ville\",\"SO\":\"Soria\",\"T\":\"Tarragone\",\"TE\":\"Teruel\",\"TO\":\"Toledo\",\"V\":\"Valence\",\"VA\":\"Valladolid\",\"BI\":\"Biscay\",\"ZA\":\"Zamora\",\"Z\":\"Saragosse\"},\"FI\":[],\"FR\":[],\"GF\":[],\"GH\":{\"AF\":\"Ahafo\",\"AH\":\"Ashanti\",\"BA\":\"Brong-Ahafo\",\"BO\":\"Bono\",\"BE\":\"Bono East\",\"CP\":\"Central\",\"EP\":\"Eastern\",\"AA\":\"Greater Accra\",\"NE\":\"Nord Est\",\"NP\":\"Nord\",\"OT\":\"Oti\",\"SV\":\"Savannah\",\"UE\":\"Upper East\",\"UW\":\"Upper West\",\"TV\":\"Volta\",\"WP\":\"Ouest\",\"WN\":\"Western North\"},\"GP\":[],\"GR\":{\"I\":\"Attique\",\"A\":\"Mac\\u00e9doine orientale et Thrace\",\"B\":\"Mac\\u00e9doine centrale\",\"C\":\"Mac\\u00e9doine occidentale\",\"D\":\"\\u00c9pire\",\"E\":\"Thessalie\",\"F\":\"\\u00celes ioniennes\",\"G\":\"Gr\\u00e8ce occidentale\",\"H\":\"Gr\\u00e8ce centrale\",\"J\":\"P\\u00e9loponn\\u00e8se\",\"K\":\"\\u00c9g\\u00e9e septentrionale\",\"L\":\"\\u00c9g\\u00e9e m\\u00e9ridionale\",\"M\":\"Cr\\u00e8te\"},\"GT\":{\"AV\":\"Alta Verapaz\",\"BV\":\"Baja Verapaz\",\"CM\":\"Chimaltenango\",\"CQ\":\"Chiquimula\",\"PR\":\"El Progreso\",\"ES\":\"Escuintla\",\"GU\":\"Guatemala\",\"HU\":\"Huehuetenango\",\"IZ\":\"Izabal\",\"JA\":\"Jalapa\",\"JU\":\"Jutiapa\",\"PE\":\"Pet\\u00e9n\",\"QZ\":\"Quetzaltenango\",\"QC\":\"Quich\\u00e9\",\"RE\":\"Retalhuleu\",\"SA\":\"Sacatep\\u00e9quez\",\"SM\":\"San Marcos\",\"SR\":\"Santa Rosa\",\"SO\":\"Solol\\u00e1\",\"SU\":\"Suchitep\\u00e9quez\",\"TO\":\"Totonicap\\u00e1n\",\"ZA\":\"Zacapa\"},\"HK\":{\"HONG KONG\":\"Hong Kong Island\",\"KOWLOON\":\"Kowloon\",\"NEW TERRITORIES\":\"Nouveaux territoires\"},\"HU\":{\"BK\":\"B\\u00e1cs-Kiskun\",\"BE\":\"B\\u00e9k\\u00e9s\",\"BA\":\"Baranya\",\"BZ\":\"Borsod-Aba\\u00faj-Zempl\\u00e9n\",\"BU\":\"Budapest\",\"CS\":\"Csongr\\u00e1d-Csan\\u00e1d\",\"FE\":\"Fej\\u00e9r\",\"GS\":\"Gy\\u0151r-Moson-Sopron\",\"HB\":\"Hajd\\u00fa-Bihar\",\"HE\":\"Heves\",\"JN\":\"J\\u00e1sz-Nagykun-Szolnok\",\"KE\":\"Kom\\u00e1rom-Esztergom\",\"NO\":\"N\\u00f3gr\\u00e1d\",\"PE\":\"Pest\",\"SO\":\"Somogy\",\"SZ\":\"Szabolcs-Szatm\\u00e1r-Bereg\",\"TO\":\"Tolna\",\"VA\":\"Vas\",\"VE\":\"Veszpr\\u00e9m\",\"ZA\":\"Zala\"},\"ID\":{\"AC\":\"Daerah Istimewa Aceh\",\"SU\":\"Sumatra du Nord\",\"SB\":\"Sumatra occidental\",\"RI\":\"Riau\",\"KR\":\"\\u00celes Riau\",\"JA\":\"Jambi\",\"SS\":\"Sumatra du Sud\",\"BB\":\"\\u00celes Bangka Belitung\",\"BE\":\"Bengkulu\",\"LA\":\"Lampung\",\"JK\":\"Jakarta\",\"JB\":\"Java occidental\",\"BT\":\"Banten\",\"JT\":\"Java central\",\"JI\":\"Java oriental\",\"YO\":\"Yogyakarta\",\"BA\":\"Bali\",\"NB\":\"Petites \\u00celes de la Sonde occidentales\",\"NT\":\"Petites \\u00celes de la Sonde orientales\",\"KB\":\"Kalimantan occidental\",\"KT\":\"Kalimantan central\",\"KI\":\"Kalimantan oriental\",\"KS\":\"Kalimantan du Sud\",\"KU\":\"Nord Kalimantan\",\"SA\":\"Sulawesi du Nord\",\"ST\":\"Sulawesi central\",\"SG\":\"Sulawesi du Sud-Est\",\"SR\":\"Sulawesi occidental\",\"SN\":\"Sulawesi du Sud\",\"GO\":\"Gorontalo\",\"MA\":\"Maluku\",\"MU\":\"Moluques du Nord\",\"PA\":\"Papouasie\",\"PB\":\"Papouasie occidentale\"},\"IE\":{\"CW\":\"Carlow\",\"CN\":\"Cavan\",\"CE\":\"Clare\",\"CO\":\"Cork\",\"DL\":\"Donegal\",\"D\":\"Dublin\",\"G\":\"Galway\",\"KY\":\"Kerry\",\"KE\":\"Kildare\",\"KK\":\"Kilkenny\",\"LS\":\"Laois\",\"LM\":\"Leitrim\",\"LK\":\"Limerick\",\"LD\":\"Longford\",\"LH\":\"Louth\",\"MO\":\"Mayo\",\"MH\":\"Meath\",\"MN\":\"Monaghan\",\"OY\":\"Offaly\",\"RN\":\"Roscommon\",\"SO\":\"Sligo\",\"TA\":\"Tipperary\",\"WD\":\"Waterford\",\"WH\":\"Westmeath\",\"WX\":\"Wexford\",\"WW\":\"Wicklow\"},\"IN\":{\"AP\":\"Andhra Pradesh\",\"AR\":\"Arunachal Pradesh\",\"AS\":\"Assam\",\"BR\":\"Bihar\",\"CT\":\"Chhattisgarh\",\"GA\":\"Goa\",\"GJ\":\"Gujarat\",\"HR\":\"Haryana\",\"HP\":\"Himachal Pradesh\",\"JK\":\"Jammu-et-Cachemire\",\"JH\":\"Jharkhand\",\"KA\":\"Karnataka\",\"KL\":\"Kerala\",\"LA\":\"Ladakh\",\"MP\":\"Madhya Pradesh\",\"MH\":\"Maharashtra\",\"MN\":\"Manipur\",\"ML\":\"Meghalaya\",\"MZ\":\"Mizoram\",\"NL\":\"Nagaland\",\"OR\":\"Odisha\",\"PB\":\"Punjab\",\"RJ\":\"Rajasthan\",\"SK\":\"Sikkim\",\"TN\":\"Tamil Nadu\",\"TS\":\"T\\u00e9langana\",\"TR\":\"Tripura\",\"UK\":\"Uttarakhand\",\"UP\":\"Uttar Pradesh\",\"WB\":\"Bengale-Occidental\",\"AN\":\"\\u00celes Andaman-et-Nicobar\",\"CH\":\"Chandigarh\",\"DN\":\"Dadra et Nagar Haveli\",\"DD\":\"Daman et Diu\",\"DL\":\"Delhi\",\"LD\":\"Lakshadeep\",\"PY\":\"Pondich\\u00e9ry (Puducherry)\"},\"IR\":{\"KHZ\":\"Khuzestan  (\\u062e\\u0648\\u0632\\u0633\\u062a\\u0627\\u0646)\",\"THR\":\"Tehran  (\\u062a\\u0647\\u0631\\u0627\\u0646)\",\"ILM\":\"Ilaam (\\u0627\\u06cc\\u0644\\u0627\\u0645)\",\"BHR\":\"Bushehr (\\u0628\\u0648\\u0634\\u0647\\u0631)\",\"ADL\":\"Ardabil (\\u0627\\u0631\\u062f\\u0628\\u06cc\\u0644)\",\"ESF\":\"Isfahan (\\u0627\\u0635\\u0641\\u0647\\u0627\\u0646)\",\"YZD\":\"Yazd (\\u06cc\\u0632\\u062f)\",\"KRH\":\"Kermanshah (\\u06a9\\u0631\\u0645\\u0627\\u0646\\u0634\\u0627\\u0647)\",\"KRN\":\"Kerman (\\u06a9\\u0631\\u0645\\u0627\\u0646)\",\"HDN\":\"Hamadan (\\u0647\\u0645\\u062f\\u0627\\u0646)\",\"GZN\":\"Ghazvin (\\u0642\\u0632\\u0648\\u06cc\\u0646)\",\"ZJN\":\"Zanjan (\\u0632\\u0646\\u062c\\u0627\\u0646)\",\"LRS\":\"Luristan (\\u0644\\u0631\\u0633\\u062a\\u0627\\u0646)\",\"ABZ\":\"Alborz (\\u0627\\u0644\\u0628\\u0631\\u0632)\",\"EAZ\":\"East Azarbaijan (\\u0622\\u0630\\u0631\\u0628\\u0627\\u06cc\\u062c\\u0627\\u0646 \\u0634\\u0631\\u0642\\u06cc)\",\"WAZ\":\"West Azarbaijan (\\u0622\\u0630\\u0631\\u0628\\u0627\\u06cc\\u062c\\u0627\\u0646 \\u063a\\u0631\\u0628\\u06cc)\",\"CHB\":\"Chaharmahal and Bakhtiari (\\u0686\\u0647\\u0627\\u0631\\u0645\\u062d\\u0627\\u0644 \\u0648 \\u0628\\u062e\\u062a\\u06cc\\u0627\\u0631\\u06cc)\",\"SKH\":\"South Khorasan (\\u062e\\u0631\\u0627\\u0633\\u0627\\u0646 \\u062c\\u0646\\u0648\\u0628\\u06cc)\",\"RKH\":\"Razavi Khorasan (\\u062e\\u0631\\u0627\\u0633\\u0627\\u0646 \\u0631\\u0636\\u0648\\u06cc)\",\"NKH\":\"Khorasan septentrional (\\u062e\\u0631\\u0627\\u0633\\u0627\\u0646 \\u062c\\u0646\\u0648\\u0628\\u06cc)\",\"SMN\":\"Semnan (\\u0633\\u0645\\u0646\\u0627\\u0646)\",\"FRS\":\"Fars (\\u0641\\u0627\\u0631\\u0633)\",\"QHM\":\"Qom (\\u0642\\u0645)\",\"KRD\":\"Kurdistan \\\/ \\u06a9\\u0631\\u062f\\u0633\\u062a\\u0627\\u0646)\",\"KBD\":\"Kohgiluyeh and BoyerAhmad (\\u06a9\\u0647\\u06af\\u06cc\\u0644\\u0648\\u06cc\\u06cc\\u0647 \\u0648 \\u0628\\u0648\\u06cc\\u0631\\u0627\\u062d\\u0645\\u062f)\",\"GLS\":\"Golestan (\\u06af\\u0644\\u0633\\u062a\\u0627\\u0646)\",\"GIL\":\"Gilan (\\u06af\\u06cc\\u0644\\u0627\\u0646)\",\"MZN\":\"Mazandaran (\\u0645\\u0627\\u0632\\u0646\\u062f\\u0631\\u0627\\u0646)\",\"MKZ\":\"Markazi (\\u0645\\u0631\\u06a9\\u0632\\u06cc)\",\"HRZ\":\"Hormozgan (\\u0647\\u0631\\u0645\\u0632\\u06af\\u0627\\u0646)\",\"SBN\":\"Sistan and Baluchestan (\\u0633\\u06cc\\u0633\\u062a\\u0627\\u0646 \\u0648 \\u0628\\u0644\\u0648\\u0686\\u0633\\u062a\\u0627\\u0646)\"},\"IS\":[],\"IT\":{\"AG\":\"Agrigente\",\"AL\":\"Alexandrie\",\"AN\":\"Anc\u00f4ne\",\"AO\":\"Aoste\",\"AR\":\"Arezzo\",\"AP\":\"Ascoli Piceno\",\"AT\":\"Asti\",\"AV\":\"Avellino\",\"BA\":\"Bari\",\"BT\":\"Barletta-Andria-Trani\",\"BL\":\"Belluno\",\"BN\":\"Benevento\",\"BG\":\"Bergame\",\"BI\":\"Biella\",\"BO\":\"Bologne\",\"BZ\":\"Bolzano\",\"BS\":\"Brescia\",\"BR\":\"Brindisi\",\"CA\":\"Cagliari\",\"CL\":\"Caltanissetta\",\"CB\":\"Campobasso\",\"CE\":\"Caserta\",\"CT\":\"Catania\",\"CZ\":\"Catanzaro\",\"CH\":\"Chieti\",\"CO\":\"C\u00f4me\",\"CS\":\"Cosenza\",\"CR\":\"Cremona\",\"KR\":\"Crotone\",\"CN\":\"Cuneo\",\"EN\":\"Enna\",\"FM\":\"Fermo\",\"FE\":\"Ferrara\",\"FI\":\"Firenze\",\"FG\":\"Foggia\",\"FC\":\"Forl\\u00ec-Cesena\",\"FR\":\"Frosinone\",\"GE\":\"G\u00eanes\",\"GO\":\"Gorizia\",\"GR\":\"Grosseto\",\"IM\":\"Imperia\",\"IS\":\"Isernia\",\"SP\":\"La Spezia\",\"AQ\":\"L\u2019'Aquila\",\"LT\":\"Latina\",\"LE\":\"Lecce\",\"LC\":\"Lecco\",\"LI\":\"Livorno\",\"LO\":\"Lodi\",\"LU\":\"Lucca\",\"MC\":\"Macerata\",\"MN\":\"Mantova\",\"MS\":\"Massa-Carrara\",\"MT\":\"Matera\",\"ME\":\"Messina\",\"MI\":\"Milan\",\"MO\":\"Mod\u00e8ne\",\"MB\":\"Monza e della Brianza\",\"NA\":\"Naples\",\"NO\":\"Novare\",\"NU\":\"Nuoro\",\"OR\":\"Oristano\",\"PD\":\"Padova\",\"PA\":\"Palerme\",\"PR\":\"Parme\",\"PV\":\"Pavia\",\"PG\":\"Perugia\",\"PU\":\"Pesaro e Urbino\",\"PE\":\"Pescara\",\"PC\":\"Piacenza\",\"PI\":\"Pise\",\"PT\":\"Pistoia\",\"PN\":\"Pordenone\",\"PZ\":\"Potenza\",\"PO\":\"Prato\",\"RG\":\"Ragusa\",\"RA\":\"Ravenne\",\"RC\":\"Reggio Calabria\",\"RE\":\"Reggio Emilia\",\"RI\":\"Rieti\",\"RN\":\"Rimini\",\"RM\":\"Rome\",\"RO\":\"Rovigo\",\"SA\":\"Salerno\",\"SS\":\"Sassari\",\"SV\":\"Savona\",\"SI\":\"Sienne\",\"SR\":\"Siracusa\",\"SO\":\"Sondrio\",\"SU\":\"Sud Sardegna\",\"TA\":\"Taranto\",\"TE\":\"Teramo\",\"TR\":\"Terni\",\"TO\":\"Torino\",\"TP\":\"Trapani\",\"TN\":\"Trento\",\"TV\":\"Tr\u00e9vise\",\"TS\":\"Trieste\",\"UD\":\"Udine\",\"VA\":\"Varese\",\"VE\":\"Venise\",\"VB\":\"Verbano-Cusio-Ossola\",\"VC\":\"Vercelli\",\"VR\":\"V\u00e9rone\",\"VV\":\"Vibo Valentia\",\"VI\":\"Vicenza\",\"VT\":\"Viterbo\"},\"IL\":[],\"IM\":[],\"JM\":{\"JM-01\":\"Kingston\",\"JM-02\":\"Saint Andrew\",\"JM-03\":\"Saint Thomas\",\"JM-04\":\"Portland\",\"JM-05\":\"Saint Mary\",\"JM-06\":\"Saint Ann\",\"JM-07\":\"Trelawny\",\"JM-08\":\"Saint James\",\"JM-09\":\"Hanovre\",\"JM-10\":\"Westmoreland\",\"JM-11\":\"Saint Elizabeth\",\"JM-12\":\"Manchester\",\"JM-13\":\"Clarendon\",\"JM-14\":\"Saint Catherine\"},\"JP\":{\"JP01\":\"Hokkaido\",\"JP02\":\"Aomori\",\"JP03\":\"Iwate\",\"JP04\":\"Miyagi\",\"JP05\":\"Akita\",\"JP06\":\"Yamagata\",\"JP07\":\"Fukushima\",\"JP08\":\"Ibaraki\",\"JP09\":\"Tochigi\",\"JP10\":\"Gunma\",\"JP11\":\"Saitama\",\"JP12\":\"Chiba\",\"JP13\":\"Tokyo\",\"JP14\":\"Kanagawa\",\"JP15\":\"Niigata\",\"JP16\":\"Toyama\",\"JP17\":\"Ishikawa\",\"JP18\":\"Fukui\",\"JP19\":\"Yamanashi\",\"JP20\":\"Nagano\",\"JP21\":\"Gifu\",\"JP22\":\"Shizuoka\",\"JP23\":\"Aichi\",\"JP24\":\"Mie\",\"JP25\":\"Shiga\",\"JP26\":\"Kyoto\",\"JP27\":\"Osaka\",\"JP28\":\"Hyogo\",\"JP29\":\"Nara\",\"JP30\":\"Wakayama\",\"JP31\":\"Tottori\",\"JP32\":\"Shimane\",\"JP33\":\"Okayama\",\"JP34\":\"Hiroshima\",\"JP35\":\"Yamaguchi\",\"JP36\":\"Tokushima\",\"JP37\":\"Kagawa\",\"JP38\":\"Ehime\",\"JP39\":\"Kochi\",\"JP40\":\"Fukuoka\",\"JP41\":\"Saga\",\"JP42\":\"Nagasaki\",\"JP43\":\"Kumamoto\",\"JP44\":\"Oita\",\"JP45\":\"Miyazaki\",\"JP46\":\"Kagoshima\",\"JP47\":\"Okinawa\"},\"KE\":{\"KE01\":\"Baringo\",\"KE02\":\"Bomet\",\"KE03\":\"Bungoma\",\"KE04\":\"Busia\",\"KE05\":\"Elgeyo-Marakwet\",\"KE06\":\"Embu\",\"KE07\":\"Garissa\",\"KE08\":\"Homa Bay\",\"KE09\":\"Isiolo\",\"KE10\":\"Kajiado\",\"KE11\":\"Kakamega\",\"KE12\":\"Kericho\",\"KE13\":\"Kiambu\",\"KE14\":\"Kilifi\",\"KE15\":\"Kirinyaga\",\"KE16\":\"Kisii\",\"KE17\":\"Kisumu\",\"KE18\":\"Kitui\",\"KE19\":\"Kwale\",\"KE20\":\"Laikipia\",\"KE21\":\"Lamu\",\"KE22\":\"Machakos\",\"KE23\":\"Makueni\",\"KE24\":\"Mandera\",\"KE25\":\"Marsabit\",\"KE26\":\"Meru\",\"KE27\":\"Migori\",\"KE28\":\"Mombasa\",\"KE29\":\"Murang\\u2019a\",\"KE30\":\"Comt\\u00e9 de Nairobi\",\"KE31\":\"Nakuru\",\"KE32\":\"Nandi\",\"KE33\":\"Narok\",\"KE34\":\"Nyamira\",\"KE35\":\"Nyandarua\",\"KE36\":\"Nyeri\",\"KE37\":\"Samburu\",\"KE38\":\"Siaya\",\"KE39\":\"Taita-Taveta\",\"KE40\":\"Tana River\",\"KE41\":\"Tharaka-Nithi\",\"KE42\":\"Trans Nzoia\",\"KE43\":\"Turkana\",\"KE44\":\"Uasin Gishu\",\"KE45\":\"Vihiga\",\"KE46\":\"Wajir\",\"KE47\":\"West Pokot\"},\"KR\":[],\"KW\":[],\"LA\":{\"AT\":\"Attapeu\",\"BK\":\"Bokeo\",\"BL\":\"Bolikhamsai\",\"CH\":\"Champasak\",\"HO\":\"Houaphanh\",\"KH\":\"Khammouane\",\"LM\":\"Luang Namtha\",\"LP\":\"Luang Prabang\",\"OU\":\"Oudomxay\",\"PH\":\"Phongsaly\",\"SL\":\"Salavan\",\"SV\":\"Savannakhet\",\"VI\":\"Province de Vientiane\",\"VT\":\"Vientiane\",\"XA\":\"Sainyabuli\",\"XE\":\"Sekong\",\"XI\":\"Xiangkhouang\",\"XS\":\"Xaisomboun\"},\"LB\":[],\"LR\":{\"BM\":\"Bomi\",\"BN\":\"Bong\",\"GA\":\"Gbarpolu\",\"GB\":\"Grand Bassa\",\"GC\":\"Grand Cape Mount\",\"GG\":\"Grand Gedeh\",\"GK\":\"Grand Kru\",\"LO\":\"Lofa\",\"MA\":\"Margibi\",\"MY\":\"Maryland\",\"MO\":\"Montserrado\",\"NM\":\"Nimba\",\"RV\":\"Rivercess\",\"RG\":\"River Gee\",\"SN\":\"Sinoe\"},\"LU\":[],\"MD\":{\"C\":\"Chi\\u0219in\\u0103u\",\"BL\":\"B\\u0103l\\u021bi\",\"AN\":\"Anenii Noi\",\"BS\":\"Basarabeasca\",\"BR\":\"Briceni\",\"CH\":\"Cahul\",\"CT\":\"Cantemir\",\"CL\":\"C\\u0103l\\u0103ra\\u0219i\",\"CS\":\"C\\u0103u\\u0219eni\",\"CM\":\"Cimi\\u0219lia\",\"CR\":\"Criuleni\",\"DN\":\"Dondu\\u0219eni\",\"DR\":\"Drochia\",\"DB\":\"Dub\\u0103sari\",\"ED\":\"Edine\\u021b\",\"FL\":\"F\\u0103le\\u0219ti\",\"FR\":\"Flore\\u0219ti\",\"GE\":\"UTA G\\u0103g\\u0103uzia\",\"GL\":\"Glodeni\",\"HN\":\"H\\u00eence\\u0219ti\",\"IL\":\"Ialoveni\",\"LV\":\"Leova\",\"NS\":\"Nisporeni\",\"OC\":\"Ocni\\u021ba\",\"OR\":\"Orhei\",\"RZ\":\"Rezina\",\"RS\":\"R\\u00ee\\u0219cani\",\"SG\":\"S\\u00eengerei\",\"SR\":\"Soroca\",\"ST\":\"Str\\u0103\\u0219eni\",\"SD\":\"\\u0218old\\u0103ne\\u0219ti\",\"SV\":\"Stefan Voda\",\"TR\":\"Taraclia\",\"TL\":\"Telene\\u0219ti\",\"UN\":\"Ungheni\"},\"MQ\":[],\"MT\":[],\"MX\":{\"DF\":\"Ciudad de M\\u00e9xico\",\"JA\":\"Jalisco\",\"NL\":\"Nuevo Le\\u00f3n\",\"AG\":\"Aguascalientes\",\"BC\":\"Basse-Californie\",\"BS\":\"Baja California Sur\",\"CM\":\"Campeche\",\"CS\":\"Chiapas\",\"CH\":\"Chihuahua\",\"CO\":\"Coahuila\",\"CL\":\"Colima\",\"DG\":\"Durango\",\"GT\":\"Guanajuato\",\"GR\":\"Guerrero\",\"HG\":\"Hidalgo\",\"MX\":\"Estado de M\\u00e9xico\",\"MI\":\"Michoac\\u00e1n\",\"MO\":\"Morelos\",\"NA\":\"Nayarit\",\"OA\":\"Oaxaca\",\"PU\":\"Puebla\",\"QT\":\"Quer\\u00e9taro\",\"QR\":\"Quintana Roo\",\"SL\":\"San Luis Potos\\u00ed\",\"SI\":\"Sinaloa\",\"SO\":\"Sonora\",\"TB\":\"Tabasco\",\"TM\":\"Tamaulipas\",\"TL\":\"Tlaxcala\",\"VE\":\"Veracruz\",\"YU\":\"Yucat\\u00e1n\",\"ZA\":\"Zacatecas\"},\"MY\":{\"JHR\":\"Johor\",\"KDH\":\"Kedah\",\"KTN\":\"Kelantan\",\"LBN\":\"Labuan\",\"MLK\":\"Malacca (Melaka)\",\"NSN\":\"Negeri Sembilan\",\"PHG\":\"Pahang\",\"PNG\":\"Penang (Pulau Pinang)\",\"PRK\":\"Perak\",\"PLS\":\"Perlis\",\"SBH\":\"Sabah\",\"SWK\":\"Sarawak\",\"SGR\":\"Selangor\",\"TRG\":\"Terengganu\",\"PJY\":\"Putrajaya\",\"KUL\":\"Kuala Lumpur\"},\"MZ\":{\"MZP\":\"Cabo Delgado\",\"MZG\":\"Gaza\",\"MZI\":\"Inhambane\",\"MZB\":\"Manica\",\"MZL\":\"Maputo Province\",\"MZMPM\":\"Maputo\",\"MZN\":\"Nampula\",\"MZA\":\"Niassa\",\"MZS\":\"Sofala\",\"MZT\":\"Tete\",\"MZQ\":\"Zamb\\u00e9zia\"},\"NA\":{\"ER\":\"Erongo\",\"HA\":\"Hardap\",\"KA\":\"Karas\",\"KE\":\"Kavango Est\",\"KW\":\"Kavango Ouest\",\"KH\":\"Khomas\",\"KU\":\"Kunene\",\"OW\":\"Ohangwena\",\"OH\":\"Omaheke\",\"OS\":\"Omusati\",\"ON\":\"Oshana\",\"OT\":\"Oshikoto\",\"OD\":\"Otjozondjupa\",\"CA\":\"Zamb\\u00e8ze\"},\"NG\":{\"AB\":\"Abia\",\"FC\":\"Abuja\",\"AD\":\"Adamawa\",\"AK\":\"Akwa Ibom\",\"AN\":\"Anambra\",\"BA\":\"Bauchi\",\"BY\":\"Bayelsa\",\"BE\":\"Benue\",\"BO\":\"Borno\",\"CR\":\"Cross River\",\"DE\":\"Delta\",\"EB\":\"Ebonyi\",\"ED\":\"Edo\",\"EK\":\"Ekiti\",\"EN\":\"Enugu\",\"GO\":\"Gombe\",\"IM\":\"Imo\",\"JI\":\"Jigawa\",\"KD\":\"Kaduna\",\"KN\":\"Kano\",\"KT\":\"Katsina\",\"KE\":\"Kebbi\",\"KO\":\"Kogi\",\"KW\":\"Kwara\",\"LA\":\"Lagos\",\"NA\":\"Nasarawa\",\"NI\":\"Niger\",\"OG\":\"Ogun\",\"ON\":\"Ondo\",\"OS\":\"Osun\",\"OY\":\"Oyo\",\"PL\":\"Plateau\",\"RI\":\"Rivers\",\"SO\":\"Sokoto\",\"TA\":\"Taraba\",\"YO\":\"Yobe\",\"ZA\":\"Zamfara\"},\"NL\":[],\"NO\":[],\"NP\":{\"BAG\":\"Bagmati\",\"BHE\":\"Bheri\",\"DHA\":\"Dhaulagiri\",\"GAN\":\"Gandaki\",\"JAN\":\"Janakpur\",\"KAR\":\"Karnali\",\"KOS\":\"Koshi\",\"LUM\":\"Lumbini\",\"MAH\":\"Mahakali\",\"MEC\":\"Mechi\",\"NAR\":\"Narayani\",\"RAP\":\"Rapti\",\"SAG\":\"Sagarmatha\",\"SET\":\"Seti\"},\"NZ\":{\"NL\":\"Northland\",\"AK\":\"Auckland\",\"WA\":\"Waikato\",\"BP\":\"Bay of Plenty\",\"TK\":\"Taranaki\",\"GI\":\"Gisborne\",\"HB\":\"Hawke\\u2019s Bay\",\"MW\":\"Manawatu-Wanganui\",\"WE\":\"Wellington\",\"NS\":\"Nelson\",\"MB\":\"Marlborough\",\"TM\":\"Tasman\",\"WC\":\"West Coast\",\"CT\":\"Canterbury\",\"OT\":\"Otago\",\"SL\":\"Southland\"},\"PE\":{\"CAL\":\"El Callao\",\"LMA\":\"Municipalit\u00e9 M\u00e9tropolitaine de Lima\",\"AMA\":\"Amazonas\",\"ANC\":\"Ancash\",\"APU\":\"Apur\\u00edmac\",\"ARE\":\"Arequipa\",\"AYA\":\"Ayacucho\",\"CAJ\":\"Cajamarca\",\"CUS\":\"Cusco\",\"HUV\":\"Huancavelica\",\"HUC\":\"Hu\\u00e1nuco\",\"ICA\":\"Ica\",\"JUN\":\"Jun\\u00edn\",\"LAL\":\"La Libertad\",\"LAM\":\"Lambayeque\",\"LIM\":\"Lima\",\"LOR\":\"Loreto\",\"MDD\":\"Madre de Dios\",\"MOQ\":\"Moquegua\",\"PAS\":\"Pasco\",\"PIU\":\"Piura\",\"PUN\":\"Puno\",\"SAM\":\"San Mart\\u00edn\",\"TAC\":\"Tacna\",\"TUM\":\"Tumbes\",\"UCA\":\"Ucayali\"},\"PH\":{\"ABR\":\"Abra\",\"AGN\":\"Agusan du Nord\",\"AGS\":\"Agusan du Sud\",\"AKL\":\"Aklan\",\"ALB\":\"Albay\",\"ANT\":\"Antique\",\"APA\":\"Apayao\",\"AUR\":\"Aurora\",\"BAS\":\"Basilan\",\"BAN\":\"Bataan\",\"BTN\":\"Batanes\",\"BTG\":\"Batangas\",\"BEN\":\"Benguet\",\"BIL\":\"Biliran\",\"BOH\":\"Bohol\",\"BUK\":\"Bukidnon\",\"BUL\":\"Bulacan\",\"CAG\":\"Cagayan\",\"CAN\":\"Camarines Nord\",\"CAS\":\"Camarines Sud\",\"CAM\":\"Camiguin\",\"CAP\":\"Capiz\",\"CAT\":\"Catanduanes\",\"CAV\":\"Cavite\",\"CEB\":\"Cebu\",\"COM\":\"Compostela Valley\",\"NCO\":\"Cotabato\",\"DAV\":\"Davao du Nord\",\"DAS\":\"Davao du Sud\",\"DAC\":\"Davao Occidental\",\"DAO\":\"Davao Oriental\",\"DIN\":\"Dinagat Islands\",\"EAS\":\"Eastern Samar\",\"GUI\":\"Guimaras\",\"IFU\":\"Ifugao\",\"ILN\":\"Ilocos Nord\",\"ILS\":\"Ilocos Sud\",\"ILI\":\"Iloilo\",\"ISA\":\"Isabela\",\"KAL\":\"Kalinga\",\"LUN\":\"La Union\",\"LAG\":\"Laguna\",\"LAN\":\"Lanao du Nord\",\"LAS\":\"Lanao du Sud\",\"LEY\":\"Leyte\",\"MAG\":\"Maguindanao\",\"MAD\":\"Marinduque\",\"MAS\":\"Masbate\",\"MSC\":\"Misamis Occidental\",\"MSR\":\"Misamis Oriental\",\"MOU\":\"Mountain Province\",\"NEC\":\"Negros Occidental\",\"NER\":\"Negros Oriental\",\"NSA\":\"Samar du Nord\",\"NUE\":\"Nueva Ecija\",\"NUV\":\"Nueva Vizcaya\",\"MDC\":\"Occidental Mindoro\",\"MDR\":\"Oriental Mindoro\",\"PLW\":\"Palawan\",\"PAM\":\"Pampanga\",\"PAN\":\"Pangasinan\",\"QUE\":\"Quezon\",\"QUI\":\"Quirino\",\"RIZ\":\"Rizal\",\"ROM\":\"Romblon\",\"WSA\":\"Samar\",\"SAR\":\"Sarangani\",\"SIQ\":\"Siquijor\",\"SOR\":\"Sorsogon\",\"SCO\":\"South Cotabato\",\"SLE\":\"Southern Leyte\",\"SUK\":\"Sultan Kudarat\",\"SLU\":\"Sulu\",\"SUN\":\"Surigao du Nord\",\"SUR\":\"Surigao du Sud\",\"TAR\":\"Tarlac\",\"TAW\":\"Tawi-Tawi\",\"ZMB\":\"Zambales\",\"ZAN\":\"Zamboanga du Nord\",\"ZAS\":\"Zamboanga du Sud\",\"ZSI\":\"Zamboanga Sibugay\",\"00\":\"Metro Manila\"},\"PK\":{\"JK\":\"Azad Cachemire\",\"BA\":\"Baloutchistan\",\"TA\":\"R\\u00e9gions Tribales\",\"GB\":\"Gilgit-Baltistan\",\"IS\":\"Territoire F\\u00e9d\\u00e9ral d\\u2019Islamabad\",\"KP\":\"Khyber Pakhtunkhwa\",\"PB\":\"Punjab\",\"SD\":\"Sind\"},\"PL\":[],\"PR\":[],\"PT\":[],\"PY\":{\"PY-ASU\":\"Asunci\\u00f3n\",\"PY-1\":\"Concepci\\u00f3n\",\"PY-2\":\"San Pedro\",\"PY-3\":\"Cordillera\",\"PY-4\":\"Guair\\u00e1\",\"PY-5\":\"Caaguaz\\u00fa\",\"PY-6\":\"Caazap\\u00e1\",\"PY-7\":\"Itap\\u00faa\",\"PY-8\":\"Province de Misiones\",\"PY-9\":\"Paraguar\\u00ed\",\"PY-10\":\"Alto Paran\\u00e1\",\"PY-11\":\"Central\",\"PY-12\":\"\\u00d1eembuc\\u00fa\",\"PY-13\":\"Amambay\",\"PY-14\":\"Canindey\\u00fa\",\"PY-15\":\"Presidente Hayes\",\"PY-16\":\"Alto Paraguay\",\"PY-17\":\"Boquer\\u00f3n\"},\"RE\":[],\"RO\":{\"AB\":\"Alba\",\"AR\":\"Arad\",\"AG\":\"Arge\\u0219\",\"BC\":\"Bac\\u0103u\",\"BH\":\"Bihor\",\"BN\":\"Bistri\\u021ba-N\\u0103s\\u0103ud\",\"BT\":\"Boto\\u0219ani\",\"BR\":\"Br\\u0103ila\",\"BV\":\"Bra\\u0219ov\",\"B\":\"Bucarest\",\"BZ\":\"Buz\\u0103u\",\"CL\":\"C\\u0103l\\u0103ra\\u0219i\",\"CS\":\"Cara\\u0219-Severin\",\"CJ\":\"Cluj\",\"CT\":\"Constan\\u021ba\",\"CV\":\"Covasna\",\"DB\":\"D\\u00e2mbovi\\u021ba\",\"DJ\":\"Dolj\",\"GL\":\"Gala\\u021bi\",\"GR\":\"Giurgiu\",\"GJ\":\"Gorj\",\"HR\":\"Harghita\",\"HD\":\"Hunedoara\",\"IL\":\"Ialomi\\u021ba\",\"IS\":\"Ia\\u0219i\",\"IF\":\"Ilfov\",\"MM\":\"Maramure\\u0219\",\"MH\":\"Mehedin\\u021bi\",\"MS\":\"Mures\",\"NT\":\"Neam\\u021b\",\"OT\":\"Olt\",\"PH\":\"Prahova\",\"SJ\":\"S\\u0103laj\",\"SM\":\"Satu Mare\",\"SB\":\"Sibiu\",\"SV\":\"Suceava\",\"TR\":\"Teleorman\",\"TM\":\"Timi\\u0219\",\"TL\":\"Tulcea\",\"VL\":\"V\\u00e2lcea\",\"VS\":\"Vaslui\",\"VN\":\"Vrancea\"},\"SG\":[],\"SK\":[],\"SI\":[],\"TH\":{\"TH-37\":\"Amnat Charoen\",\"TH-15\":\"Ang Thong\",\"TH-14\":\"Ayutthaya\",\"TH-10\":\"Bangkok\",\"TH-38\":\"Bueng Kan\",\"TH-31\":\"Buri Ram\",\"TH-24\":\"Chachoengsao\",\"TH-18\":\"Chai Nat\",\"TH-36\":\"Chaiyaphum\",\"TH-22\":\"Chanthaburi\",\"TH-50\":\"Chiang Mai\",\"TH-57\":\"Chiang Rai\",\"TH-20\":\"Chonburi\",\"TH-86\":\"Chumphon\",\"TH-46\":\"Kalasin\",\"TH-62\":\"Kamphaeng Phet\",\"TH-71\":\"Kanchanaburi\",\"TH-40\":\"Khon Kaen\",\"TH-81\":\"Krabi\",\"TH-52\":\"Lampang\",\"TH-51\":\"Lamphun\",\"TH-42\":\"Loei\",\"TH-16\":\"Lopburi\",\"TH-58\":\"Mae Hong Son\",\"TH-44\":\"Maha Sarakham\",\"TH-49\":\"Mukdahan\",\"TH-26\":\"Nakhon Nayok\",\"TH-73\":\"Nakhon Pathom\",\"TH-48\":\"Nakhon Phanom\",\"TH-30\":\"Nakhon Ratchasima\",\"TH-60\":\"Nakhon Sawan\",\"TH-80\":\"Nakhon Si Thammarat\",\"TH-55\":\"Nan\",\"TH-96\":\"Narathiwat\",\"TH-39\":\"Nong Bua Lam Phu\",\"TH-43\":\"Nong Khai\",\"TH-12\":\"Nonthaburi\",\"TH-13\":\"Pathum Thani\",\"TH-94\":\"Pattani\",\"TH-82\":\"Phang Nga\",\"TH-93\":\"Phatthalung\",\"TH-56\":\"Phayao\",\"TH-67\":\"Phetchabun\",\"TH-76\":\"Phetchaburi\",\"TH-66\":\"Phichit\",\"TH-65\":\"Phitsanulok\",\"TH-54\":\"Phrae\",\"TH-83\":\"Phuket\",\"TH-25\":\"Prachin Buri\",\"TH-77\":\"Prachuap Khiri Khan\",\"TH-85\":\"Ranong\",\"TH-70\":\"Ratchaburi\",\"TH-21\":\"Rayong\",\"TH-45\":\"Roi Et\",\"TH-27\":\"Sa Kaeo\",\"TH-47\":\"Sakon Nakhon\",\"TH-11\":\"Samut Prakan\",\"TH-74\":\"Samut Sakhon\",\"TH-75\":\"Samut Songkhram\",\"TH-19\":\"Saraburi\",\"TH-91\":\"Satun\",\"TH-17\":\"Sing Buri\",\"TH-33\":\"Sisaket\",\"TH-90\":\"Songkhla\",\"TH-64\":\"Sukhothai\",\"TH-72\":\"Suphan Buri\",\"TH-84\":\"Surat Thani\",\"TH-32\":\"Surin\",\"TH-63\":\"Tak\",\"TH-92\":\"Trang\",\"TH-23\":\"Trat\",\"TH-34\":\"Ubon Ratchathani\",\"TH-41\":\"Udon Thani\",\"TH-61\":\"Uthai Thani\",\"TH-53\":\"Uttaradit\",\"TH-95\":\"Yala\",\"TH-35\":\"Yasothon\"},\"TR\":{\"TR01\":\"Adana\",\"TR02\":\"Ad\\u0131yaman\",\"TR03\":\"Afyon\",\"TR04\":\"A\\u011fr\\u0131\",\"TR05\":\"Amasya\",\"TR06\":\"Ankara\",\"TR07\":\"Antalya\",\"TR08\":\"Artvin\",\"TR09\":\"Ayd\\u0131n\",\"TR10\":\"Bal\\u0131kesir\",\"TR11\":\"Bilecik\",\"TR12\":\"Bing\\u00f6l\",\"TR13\":\"Bitlis\",\"TR14\":\"Bolu\",\"TR15\":\"Burdur\",\"TR16\":\"Bursa\",\"TR17\":\"\\u00c7anakkale\",\"TR18\":\"\\u00c7ank\\u0131r\\u0131\",\"TR19\":\"\\u00c7orum\",\"TR20\":\"Denizli\",\"TR21\":\"Diyarbak\\u0131r\",\"TR22\":\"Edirne\",\"TR23\":\"Elaz\\u0131\\u011f\",\"TR24\":\"Erzincan\",\"TR25\":\"Erzurum\",\"TR26\":\"Eski\\u015fehir\",\"TR27\":\"Gaziantep\",\"TR28\":\"Giresun\",\"TR29\":\"G\\u00fcm\\u00fc\\u015fhane\",\"TR30\":\"Hakkari\",\"TR31\":\"Hatay\",\"TR32\":\"Isparta\",\"TR33\":\"\\u0130\\u00e7el\",\"TR34\":\"\\u0130stanbul\",\"TR35\":\"\\u0130zmir\",\"TR36\":\"Kars\",\"TR37\":\"Kastamonu\",\"TR38\":\"Kayseri\",\"TR39\":\"K\\u0131rklareli\",\"TR40\":\"K\\u0131r\\u015fehir\",\"TR41\":\"Kocaeli\",\"TR42\":\"Konya\",\"TR43\":\"K\\u00fctahya\",\"TR44\":\"Malatya\",\"TR45\":\"Manisa\",\"TR46\":\"Kahramanmara\\u015f\",\"TR47\":\"Mardin\",\"TR48\":\"Mu\\u011fla\",\"TR49\":\"Mu\\u015f\",\"TR50\":\"Nev\\u015fehir\",\"TR51\":\"Ni\\u011fde\",\"TR52\":\"Ordu\",\"TR53\":\"Rize\",\"TR54\":\"Sakarya\",\"TR55\":\"Samsun\",\"TR56\":\"Siirt\",\"TR57\":\"Sinop\",\"TR58\":\"Sivas\",\"TR59\":\"Tekirda\\u011f\",\"TR60\":\"Tokat\",\"TR61\":\"Trabzon\",\"TR62\":\"Tunceli\",\"TR63\":\"\\u015eanl\\u0131urfa\",\"TR64\":\"U\\u015fak\",\"TR65\":\"Van\",\"TR66\":\"Yozgat\",\"TR67\":\"Zonguldak\",\"TR68\":\"Aksaray\",\"TR69\":\"Bayburt\",\"TR70\":\"Karaman\",\"TR71\":\"K\\u0131r\\u0131kkale\",\"TR72\":\"Batman\",\"TR73\":\"\\u015e\\u0131rnak\",\"TR74\":\"Bart\\u0131n\",\"TR75\":\"Ardahan\",\"TR76\":\"I\\u011fd\\u0131r\",\"TR77\":\"Yalova\",\"TR78\":\"Karab\\u00fck\",\"TR79\":\"Kilis\",\"TR80\":\"Osmaniye\",\"TR81\":\"D\\u00fczce\"},\"TZ\":{\"TZ01\":\"Arusha\",\"TZ02\":\"Dar es Salaam\",\"TZ03\":\"Dodoma\",\"TZ04\":\"Iringa\",\"TZ05\":\"Kagera\",\"TZ06\":\"Pemba Nord\",\"TZ07\":\"Zanzibar North\",\"TZ08\":\"Kigoma\",\"TZ09\":\"Kilimanjaro\",\"TZ10\":\"Pemba South\",\"TZ11\":\"Zanzibar South\",\"TZ12\":\"Lindi\",\"TZ13\":\"Mara\",\"TZ14\":\"Mbeya\",\"TZ15\":\"Zanzibar West\",\"TZ16\":\"Morogoro\",\"TZ17\":\"Mtwara\",\"TZ18\":\"Mwanza\",\"TZ19\":\"Coast\",\"TZ20\":\"Rukwa\",\"TZ21\":\"Ruvuma\",\"TZ22\":\"Shinyanga\",\"TZ23\":\"Singida\",\"TZ24\":\"Tabora\",\"TZ25\":\"Tanga\",\"TZ26\":\"Manyara\",\"TZ27\":\"Geita\",\"TZ28\":\"Katavi\",\"TZ29\":\"Njombe\",\"TZ30\":\"Simiyu\"},\"LK\":[],\"RS\":{\"RS00\":\"Belgrade\",\"RS14\":\"Bor\",\"RS11\":\"Brani\\u010devo\",\"RS02\":\"Central Banat\",\"RS10\":\"Danube\",\"RS23\":\"Jablanica\",\"RS09\":\"Kolubara\",\"RS08\":\"Ma\\u010dva\",\"RS17\":\"Morava\",\"RS20\":\"Ni\\u0161ava\",\"RS01\":\"North Ba\\u010dka\",\"RS03\":\"North Banat\",\"RS24\":\"P\\u010dinja\",\"RS22\":\"Pirot\",\"RS13\":\"Pomoravlje\",\"RS19\":\"Rasina\",\"RS18\":\"Ra\\u0161ka\",\"RS06\":\"South Ba\\u010dka\",\"RS04\":\"South Banat\",\"RS07\":\"Srem\",\"RS12\":\"\\u0160umadija\",\"RS21\":\"Toplica\",\"RS05\":\"West Ba\\u010dka\",\"RS15\":\"Zaje\\u010dar\",\"RS16\":\"Zlatibor\",\"RS25\":\"Kosovo\",\"RS26\":\"Pe\\u0107\",\"RS27\":\"Prizren\",\"RS28\":\"Kosovska Mitrovica\",\"RS29\":\"Kosovo-Pomoravlje\",\"RSKM\":\"Kosovo-Metohija\",\"RSVO\":\"Vojvodina\"},\"SE\":[],\"UG\":{\"UG314\":\"Abim\",\"UG301\":\"Adjumani\",\"UG322\":\"Agago\",\"UG323\":\"Alebtong\",\"UG315\":\"Amolatar\",\"UG324\":\"Amudat\",\"UG216\":\"Amuria\",\"UG316\":\"Amuru\",\"UG302\":\"Apac\",\"UG303\":\"Arua\",\"UG217\":\"Budaka\",\"UG218\":\"Bududa\",\"UG201\":\"Bugiri\",\"UG235\":\"Bugweri\",\"UG420\":\"Buhweju\",\"UG117\":\"Buikwe\",\"UG219\":\"Bukedea\",\"UG118\":\"Bukomansimbi\",\"UG220\":\"Bukwa\",\"UG225\":\"Bulambuli\",\"UG416\":\"Buliisa\",\"UG401\":\"Bundibugyo\",\"UG430\":\"Bunyangabu\",\"UG402\":\"Bushenyi\",\"UG202\":\"Busia\",\"UG221\":\"Butaleja\",\"UG119\":\"Butambala\",\"UG233\":\"Butebo\",\"UG120\":\"Buvuma\",\"UG226\":\"Buyende\",\"UG317\":\"Dokolo\",\"UG121\":\"Gomba\",\"UG304\":\"Gulu\",\"UG403\":\"Hoima\",\"UG417\":\"Ibanda\",\"UG203\":\"Iganga\",\"UG418\":\"Isingiro\",\"UG204\":\"Jinja\",\"UG318\":\"Kaabong\",\"UG404\":\"Kabale\",\"UG405\":\"Kabarole\",\"UG213\":\"Kaberamaido\",\"UG427\":\"Kagadi\",\"UG428\":\"Kakumiro\",\"UG101\":\"Kalangala\",\"UG222\":\"Kaliro\",\"UG122\":\"Kalungu\",\"UG102\":\"Kampala\",\"UG205\":\"Kamuli\",\"UG413\":\"Kamwenge\",\"UG414\":\"Kanungu\",\"UG206\":\"Kapchorwa\",\"UG236\":\"Kapelebyong\",\"UG126\":\"Kasanda\",\"UG406\":\"Kasese\",\"UG207\":\"Katakwi\",\"UG112\":\"Kayunga\",\"UG407\":\"Kibaale\",\"UG103\":\"Kiboga\",\"UG227\":\"Kibuku\",\"UG432\":\"Kikuube\",\"UG419\":\"Kiruhura\",\"UG421\":\"Kiryandongo\",\"UG408\":\"Kisoro\",\"UG305\":\"Kitgum\",\"UG319\":\"Koboko\",\"UG325\":\"Kole\",\"UG306\":\"Kotido\",\"UG208\":\"Kumi\",\"UG333\":\"Kwania\",\"UG228\":\"Kween\",\"UG123\":\"Kyankwanzi\",\"UG422\":\"Kyegegwa\",\"UG415\":\"Kyenjojo\",\"UG125\":\"Kyotera\",\"UG326\":\"Lamwo\",\"UG307\":\"Lira\",\"UG229\":\"Luuka\",\"UG104\":\"Luwero\",\"UG124\":\"Lwengo\",\"UG114\":\"Lyantonde\",\"UG223\":\"Manafwa\",\"UG320\":\"Maracha\",\"UG105\":\"Masaka\",\"UG409\":\"Masindi\",\"UG214\":\"Mayuge\",\"UG209\":\"Mbale\",\"UG410\":\"Mbarara\",\"UG423\":\"Mitooma\",\"UG115\":\"Mityana\",\"UG308\":\"Moroto\",\"UG309\":\"Moyo\",\"UG106\":\"Mpigi\",\"UG107\":\"Mubende\",\"UG108\":\"Mukono\",\"UG334\":\"Nabilatuk\",\"UG311\":\"Nakapiripirit\",\"UG116\":\"Nakaseke\",\"UG109\":\"Nakasongola\",\"UG230\":\"Namayingo\",\"UG234\":\"Namisindwa\",\"UG224\":\"Namutumba\",\"UG327\":\"Napak\",\"UG310\":\"Nebbi\",\"UG231\":\"Ngora\",\"UG424\":\"Ntoroko\",\"UG411\":\"Ntungamo\",\"UG328\":\"Nwoya\",\"UG331\":\"Omoro\",\"UG329\":\"Otuke\",\"UG321\":\"Oyam\",\"UG312\":\"Pader\",\"UG332\":\"Pakwach\",\"UG210\":\"Pallisa\",\"UG110\":\"Rakai\",\"UG429\":\"Rubanda\",\"UG425\":\"Rubirizi\",\"UG431\":\"Rukiga\",\"UG412\":\"Rukungiri\",\"UG111\":\"Sembabule\",\"UG232\":\"Serere\",\"UG426\":\"Sheema\",\"UG215\":\"Sironko\",\"UG211\":\"Soroti\",\"UG212\":\"Tororo\",\"UG113\":\"Wakiso\",\"UG313\":\"Yumbe\",\"UG330\":\"Zombo\"},\"UM\":{\"81\":\"Baker Island\",\"84\":\"Howland Island\",\"86\":\"Jarvis Island\",\"67\":\"Johnston Atoll\",\"89\":\"Kingman Reef\",\"71\":\"Midway Atoll\",\"76\":\"Navassa Island\",\"95\":\"Palmyra Atoll\",\"79\":\"Wake Island\"},\"US\":{\"AL\":\"Alabama\",\"AK\":\"Alaska\",\"AZ\":\"Arizona\",\"AR\":\"Arkansas\",\"CA\":\"California\",\"CO\":\"Colorado\",\"CT\":\"Connecticut\",\"DE\":\"Delaware\",\"DC\":\"District Of Columbia\",\"FL\":\"Florida\",\"GA\":\"G\\u00e9orgie\",\"HI\":\"Hawaii\",\"ID\":\"Idaho\",\"IL\":\"Illinois\",\"IN\":\"Indiana\",\"IA\":\"Iowa\",\"KS\":\"Kansas\",\"KY\":\"Kentucky\",\"LA\":\"Louisiana\",\"ME\":\"Maine\",\"MD\":\"Maryland\",\"MA\":\"Massachusetts\",\"MI\":\"Michigan\",\"MN\":\"Minnesota\",\"MS\":\"Mississippi\",\"MO\":\"Missouri\",\"MT\":\"Montana\",\"NE\":\"Nebraska\",\"NV\":\"Nevada\",\"NH\":\"New Hampshire\",\"NJ\":\"New Jersey\",\"NM\":\"New Mexico\",\"NY\":\"New York\",\"NC\":\"Caroline du Nord\",\"ND\":\"Dakota du Nord\",\"OH\":\"Ohio\",\"OK\":\"Oklahoma\",\"OR\":\"Oregon\",\"PA\":\"Pennsylvania\",\"RI\":\"Rhode Island\",\"SC\":\"South Carolina\",\"SD\":\"South Dakota\",\"TN\":\"Tennessee\",\"TX\":\"Texas\",\"UT\":\"Utah\",\"VT\":\"Vermont\",\"VA\":\"Virginia\",\"WA\":\"Washington\",\"WV\":\"West Virginia\",\"WI\":\"Wisconsin\",\"WY\":\"Wyoming\",\"AA\":\"Forces arm\\u00e9es am\\u00e9ricaines (AA)\",\"AE\":\"Forces arm\\u00e9es am\\u00e9ricaines (AE)\",\"AP\":\"Forces arm\\u00e9es am\\u00e9ricaines (AP)\"},\"VE\":{\"A\":\"Capital\",\"B\":\"Anzo\\u00e1tegui\",\"C\":\"Apure\",\"D\":\"Aragua\",\"E\":\"Barinas\",\"F\":\"Bol\\u00edvar\",\"G\":\"Carabobo\",\"H\":\"Cojedes\",\"I\":\"Falc\\u00f3n\",\"J\":\"Gu\\u00e1rico\",\"K\":\"Lara\",\"L\":\"M\\u00e9rida\",\"M\":\"Miranda\",\"N\":\"Monagas\",\"O\":\"Nueva Esparta\",\"P\":\"Portuguesa\",\"R\":\"Sucre\",\"S\":\"T\\u00e1chira\",\"T\":\"Trujillo\",\"U\":\"Yaracuy\",\"V\":\"Zulia\",\"W\":\"D\\u00e9pendances f\\u00e9d\\u00e9rales\",\"X\":\"Vargas\",\"Y\":\"Delta Amacuro\",\"Z\":\"Amazonas\"},\"VN\":[],\"YT\":[],\"ZA\":{\"EC\":\"Cap-Oriental\",\"FS\":\"Free State\",\"GP\":\"Gauteng\",\"KZN\":\"KwaZulu-Natal\",\"LP\":\"Limpopo\",\"MP\":\"Mpumalanga\",\"NC\":\"Cap-Nord\",\"NW\":\"Nord-Ouest\",\"WC\":\"Cap-Occidental\"},\"ZM\":{\"ZM-01\":\"Ouest\",\"ZM-02\":\"Central\",\"ZM-03\":\"Eastern\",\"ZM-04\":\"Luapula\",\"ZM-05\":\"Nord\",\"ZM-06\":\"Nord-ouest\",\"ZM-07\":\"Sud\",\"ZM-08\":\"Copperbelt\",\"ZM-09\":\"Lusaka\",\"ZM-10\":\"Muchinga\"}}","i18n_select_state_text":"S\u00e9lectionner une option\u2026","i18n_no_matches":"Aucun r\u00e9sultat","i18n_ajax_error":"\u00c9chec du chargement","i18n_input_too_short_1":"Veuillez saisir 1 caract\u00e8re ou plus","i18n_input_too_short_n":"Veuillez saisir %qty% caract\u00e8res ou plus","i18n_input_too_long_1":"Veuillez supprimer 1 caract\u00e8re","i18n_input_too_long_n":"Veuillez supprimer %qty% caract\u00e8res","i18n_selection_too_long_1":"Vous ne pouvez s\u00e9lectionner qu\u20191 article","i18n_selection_too_long_n":"Vous ne pouvez s\u00e9lectionner que %qty% articles","i18n_load_more":"Charger plus de r\u00e9sultats\u2026","i18n_searching":"Recherche\u2026"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=5.4.2' id='wc-country-select-js'></script>
+<script type='text/javascript' id='wc-address-i18n-js-extra'>
+/* <![CDATA[ */
+var wc_address_i18n_params = {"locale":"{\"AE\":{\"postcode\":{\"required\":false,\"hidden\":true},\"state\":{\"required\":false}},\"AF\":{\"state\":{\"required\":false}},\"AO\":{\"postcode\":{\"required\":false,\"hidden\":true},\"state\":{\"label\":\"Province\"}},\"AT\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"AU\":{\"city\":{\"label\":\"Banlieue\"},\"postcode\":{\"label\":\"Code Postal\"},\"state\":{\"label\":\"\\u00c9tat\"}},\"AX\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"BA\":{\"postcode\":{\"priority\":65},\"state\":{\"label\":\"Canton\",\"required\":false,\"hidden\":true}},\"BD\":{\"postcode\":{\"required\":false},\"state\":{\"label\":\"District\"}},\"BE\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"label\":\"Province\"}},\"BH\":{\"postcode\":{\"required\":false},\"state\":{\"required\":false}},\"BI\":{\"state\":{\"required\":false}},\"BO\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"BS\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"CA\":{\"postcode\":{\"label\":\"Code postal\"},\"state\":{\"label\":\"Province\"}},\"CH\":{\"postcode\":{\"priority\":65},\"state\":{\"label\":\"Canton\",\"required\":false}},\"CL\":{\"city\":{\"required\":true},\"postcode\":{\"required\":false},\"state\":{\"label\":\"R\\u00e9gion\"}},\"CN\":{\"state\":{\"label\":\"Province\"}},\"CO\":{\"postcode\":{\"required\":false}},\"CZ\":{\"state\":{\"required\":false}},\"DE\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"DK\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"EE\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"FI\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"FR\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"GH\":{\"postcode\":{\"required\":false},\"state\":{\"label\":\"R\\u00e9gion\"}},\"GP\":{\"state\":{\"required\":false}},\"GF\":{\"state\":{\"required\":false}},\"GR\":{\"state\":{\"required\":false}},\"GT\":{\"postcode\":{\"required\":false,\"hidden\":true},\"state\":{\"label\":\"Domaine\"}},\"HK\":{\"postcode\":{\"required\":false},\"city\":{\"label\":\"Ville \\\/ Quartier\"},\"state\":{\"label\":\"R\\u00e9gion\"}},\"HU\":{\"last_name\":{\"class\":[\"form-row-first\"],\"priority\":10},\"first_name\":{\"class\":[\"form-row-last\"],\"priority\":20},\"postcode\":{\"class\":[\"form-row-first\",\"address-field\"],\"priority\":65},\"city\":{\"class\":[\"form-row-last\",\"address-field\"]},\"address_1\":{\"priority\":71},\"address_2\":{\"priority\":72},\"state\":{\"label\":\"D\\u00e9partement\"}},\"ID\":{\"state\":{\"label\":\"Province\"}},\"IE\":{\"postcode\":{\"required\":false,\"label\":\"Eircode\"},\"state\":{\"label\":\"D\\u00e9partement\"}},\"IS\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"IL\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"IM\":{\"state\":{\"required\":false}},\"IN\":{\"postcode\":{\"label\":\"Code pin\"},\"state\":{\"label\":\"\\u00c9tat\"}},\"IT\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":true,\"label\":\"Province\"}},\"JM\":{\"city\":{\"label\":\"Ville \\\/ Bureau de poste\"},\"postcode\":{\"required\":false,\"label\":\"Code postal\"},\"state\":{\"required\":true,\"label\":\"Commune\"}},\"JP\":{\"last_name\":{\"class\":[\"form-row-first\"],\"priority\":10},\"first_name\":{\"class\":[\"form-row-last\"],\"priority\":20},\"postcode\":{\"class\":[\"form-row-first\",\"address-field\"],\"priority\":65},\"state\":{\"label\":\"Pr\\u00e9fecture\",\"class\":[\"form-row-last\",\"address-field\"],\"priority\":66},\"city\":{\"priority\":67},\"address_1\":{\"priority\":68},\"address_2\":{\"priority\":69}},\"KR\":{\"state\":{\"required\":false}},\"KW\":{\"state\":{\"required\":false}},\"LV\":{\"state\":{\"label\":\"Municipalit\\u00e9\",\"required\":false}},\"LB\":{\"state\":{\"required\":false}},\"MQ\":{\"state\":{\"required\":false}},\"MT\":{\"state\":{\"required\":false}},\"MZ\":{\"postcode\":{\"required\":false,\"hidden\":true},\"state\":{\"label\":\"Province\"}},\"NL\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"label\":\"Province\"}},\"NG\":{\"postcode\":{\"label\":\"Code Postal\",\"required\":false,\"hidden\":true},\"state\":{\"label\":\"\\u00c9tat\"}},\"NZ\":{\"postcode\":{\"label\":\"Code Postal\"},\"state\":{\"required\":false,\"label\":\"R\\u00e9gion\"}},\"NO\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"NP\":{\"state\":{\"label\":\"\\u00c9tat\"},\"postcode\":{\"required\":false}},\"PL\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"PR\":{\"city\":{\"label\":\"Municipalit\\u00e9\"},\"state\":{\"required\":false,\"hidden\":true}},\"PT\":{\"state\":{\"required\":false}},\"RE\":{\"state\":{\"required\":false}},\"RO\":{\"state\":{\"label\":\"D\\u00e9partement\",\"required\":true}},\"RS\":{\"city\":{\"required\":true},\"postcode\":{\"required\":true},\"state\":{\"label\":\"District\",\"required\":false}},\"SG\":{\"state\":{\"required\":false},\"city\":{\"required\":false}},\"SK\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"SI\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"SR\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"ES\":{\"postcode\":{\"priority\":65},\"state\":{\"label\":\"Province\"}},\"LI\":{\"postcode\":{\"priority\":65},\"state\":{\"label\":\"Municipalit\\u00e9\",\"required\":false}},\"LK\":{\"state\":{\"required\":false}},\"LU\":{\"state\":{\"required\":false}},\"MD\":{\"state\":{\"label\":\"Municipalit\\u00e9\\\/district\"}},\"SE\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"TR\":{\"postcode\":{\"priority\":65},\"state\":{\"label\":\"Province\"}},\"UG\":{\"postcode\":{\"required\":false,\"hidden\":true},\"city\":{\"label\":\"Ville\",\"required\":true},\"state\":{\"label\":\"District\",\"required\":true}},\"US\":{\"postcode\":{\"label\":\"Code postal\"},\"state\":{\"label\":\"\\u00c9tat\"}},\"GB\":{\"postcode\":{\"label\":\"Code Postal\"},\"state\":{\"label\":\"D\\u00e9partement\",\"required\":false}},\"ST\":{\"postcode\":{\"required\":false,\"hidden\":true},\"state\":{\"label\":\"District\"}},\"VN\":{\"state\":{\"required\":false,\"hidden\":true},\"postcode\":{\"priority\":65,\"required\":false,\"hidden\":false},\"address_2\":{\"required\":false,\"hidden\":true}},\"WS\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"YT\":{\"state\":{\"required\":false}},\"ZA\":{\"state\":{\"label\":\"Province\"}},\"ZW\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"default\":{\"first_name\":{\"label\":\"Pr\\u00e9nom\",\"required\":true,\"class\":[\"form-row-first\"],\"autocomplete\":\"given-name\",\"priority\":10},\"last_name\":{\"label\":\"Nom\",\"required\":true,\"class\":[\"form-row-last\"],\"autocomplete\":\"family-name\",\"priority\":20},\"country\":{\"type\":\"country\",\"label\":\"Pays\\\/r\\u00e9gion\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\",\"update_totals_on_change\"],\"autocomplete\":\"country\",\"priority\":40},\"address_1\":{\"label\":\"Num\\u00e9ro et nom de rue\",\"placeholder\":\"Num\\u00e9ro de voie et nom de la rue\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"autocomplete\":\"address-line1\",\"priority\":50},\"city\":{\"label\":\"Ville\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"autocomplete\":\"address-level2\",\"priority\":70},\"state\":{\"type\":\"state\",\"label\":\"R\\u00e9gion\\u00a0\\\/\\u00a0D\\u00e9partement\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"validate\":[\"state\"],\"autocomplete\":\"address-level1\",\"priority\":80},\"postcode\":{\"label\":\"Code postal\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"validate\":[\"postcode\"],\"autocomplete\":\"postal-code\",\"priority\":90}},\"BJ\":{\"first_name\":{\"label\":\"Pr\\u00e9nom\",\"required\":true,\"class\":[\"form-row-first\"],\"autocomplete\":\"given-name\",\"priority\":10},\"last_name\":{\"label\":\"Nom\",\"required\":true,\"class\":[\"form-row-last\"],\"autocomplete\":\"family-name\",\"priority\":20},\"country\":{\"type\":\"country\",\"label\":\"Pays\\\/r\\u00e9gion\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\",\"update_totals_on_change\"],\"autocomplete\":\"country\",\"priority\":40},\"address_1\":{\"label\":\"Num\\u00e9ro et nom de rue\",\"placeholder\":\"Num\\u00e9ro de voie et nom de la rue\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"autocomplete\":\"address-line1\",\"priority\":50},\"city\":{\"label\":\"Ville\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"autocomplete\":\"address-level2\",\"priority\":70},\"state\":{\"type\":\"state\",\"label\":\"R\\u00e9gion\\u00a0\\\/\\u00a0D\\u00e9partement\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"validate\":[\"state\"],\"autocomplete\":\"address-level1\",\"priority\":80},\"postcode\":{\"label\":\"Code postal\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"validate\":[\"postcode\"],\"autocomplete\":\"postal-code\",\"priority\":90}}}","locale_fields":"{\"address_1\":\"#billing_address_1_field, #shipping_address_1_field\",\"address_2\":\"#billing_address_2_field, #shipping_address_2_field\",\"state\":\"#billing_state_field, #shipping_state_field, #calc_shipping_state_field\",\"postcode\":\"#billing_postcode_field, #shipping_postcode_field, #calc_shipping_postcode_field\",\"city\":\"#billing_city_field, #shipping_city_field, #calc_shipping_city_field\"}","i18n_required_text":"obligatoire","i18n_optional_text":"facultatif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=5.4.2' id='wc-address-i18n-js'></script>
+<script type='text/javascript' id='wc-cart-js-extra'>
+/* <![CDATA[ */
+var wc_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","update_shipping_method_nonce":"0b8b69f0a5","apply_coupon_nonce":"355911edc6","remove_coupon_nonce":"d252197da9"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=5.4.2' id='wc-cart-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9' id='selectWoo-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_3ed2633bb0c6f9ce805c507f800781ad","fragment_name":"wc_fragments_3ed2633bb0c6f9ce805c507f800781ad","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.4.2' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='../wp-content/themes/hozing/assets/libs/bootstrap/js/bootstrap.bundle.min.js' id='bootstrap-js'></script>
+<script type='text/javascript' src='../wp-content/themes/hozing/assets/libs/prettyphoto/jquery.prettyPhoto_https.js' id='prettyphoto-js'></script>
+<script type='text/javascript' src='../wp-content/themes/hozing/assets/libs/owl-carousel/owl.carousel.min.js' id='owl-carousel-js'></script>
+<script type='text/javascript' src='../wp-content/themes/hozing/assets/js/script.js' id='hozing_script-js'></script>
+<script type='text/javascript' src='../wp-includes/js/wp-embed.min.js?ver=5.7.3' id='wp-embed-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/ova-framework/assets/js/script-elementor.js?ver=5.7.3' id='script-elementor-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.3.0' id='elementor-pro-webpack-runtime-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.2.4' id='elementor-webpack-runtime-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.2.4' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.3.0' id='elementor-sticky-js'></script>
+<script type='text/javascript' id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/complexehotelmosaly.com\/wp-admin\/admin-ajax.php","nonce":"cca0de686b","urls":{"assets":"https:\/\/complexehotelmosaly.com\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"menu_cart":{"cart_page_url":"https:\/\/complexehotelmosaly.com\/cart\/","checkout_page_url":"https:\/\/complexehotelmosaly.com\/checkout\/"},"facebook_sdk":{"lang":"fr_FR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/complexehotelmosaly.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type='text/javascript' src='../wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.3.0' id='elementor-pro-frontend-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.2.4' id='share-link-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Partager sur Facebook","shareOnTwitter":"Partager sur Twitter","pinIt":"L\u2019\u00e9pingler","download":"T\u00e9l\u00e9charger","downloadImage":"T\u00e9l\u00e9charger une image","fullscreen":"Plein \u00e9cran","zoom":"Zoom","share":"Partager","playVideo":"Lire la vid\u00e9o","previous":"Pr\u00e9c\u00e9dent","next":"Suivant","close":"Fermer"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Grand mobile","value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablette","value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Grande tablette","value":1365,"direction":"max","is_enabled":false},"laptop":{"label":"Portable","value":1620,"direction":"max","is_enabled":false},"widescreen":{"label":"\u00c9cran large","value":2400,"direction":"min","is_enabled":false}}},"version":"3.2.4","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"a11y_improvements":true,"landing-pages":true,"form-submissions":true,"video-playlist":true},"urls":{"assets":"https:\/\/complexehotelmosaly.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":8,"title":"Caisse%20%E2%80%93%20HOTEL%20MOSALY","excerpt":"","featuredImage":false}};
+</script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.2.4' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.3.0' id='pro-preloaded-elements-handlers-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.2.4' id='preloaded-modules-js'></script>
+	</body><!-- /body -->
+</html>
